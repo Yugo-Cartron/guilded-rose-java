@@ -9,15 +9,7 @@ class GuildedRose {
 
     public void updateQuality() {
         for (Item item : items) {
-            dailyUpdate(item);
-
-            if (!item.name.equals("Sulfuras, Hand of Ragnaros")) {
-                item.decreaseSellIn();
-            }
-
-            if (item.sellIn < 0) {
-                updateWhenSellInIsPassed(item);
-            }
+            item.updateQuality();
         }
     }
     private void decreaseQualityForNormalItemsOrSulfuras(Item item) {

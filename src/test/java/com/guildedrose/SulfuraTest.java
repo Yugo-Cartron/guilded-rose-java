@@ -19,7 +19,7 @@ public class SulfuraTest {
         Sulfura sulfuraItem = new Sulfura();
 
         assertEquals(sulfuraItem.sellIn, -1);
-        sulfuraItem.updateSellIn();
+        sulfuraItem.updateQuality();
         assertEquals(sulfuraItem.sellIn, -1);
     }
 }

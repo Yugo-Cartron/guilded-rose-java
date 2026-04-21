@@ -5,9 +5,8 @@ public class Sulfura extends Item {
         super("Sulfuras, Hand of Ragnaros", -1, 80);
     }
 
+    @Override
     public void updateQuality() {
     }
 
-    public void updateSellIn() {
-    }
 }

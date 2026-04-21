@@ -6,6 +6,7 @@ public class BackstagePasses extends Item {
         super("Backstage passes to a TAFKAL80ETC concert", sellIn, quality);
     } 
 
+    @Override
     public void updateQuality() {
         this.quality++;
 

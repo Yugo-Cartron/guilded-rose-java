@@ -6,6 +6,7 @@ public class AgedBrie extends Item {
         super("Aged Brie", sellIn, quality);
     }
 
+    @Override
     public void updateQuality() {
         this.quality++;
         this.sellIn--;

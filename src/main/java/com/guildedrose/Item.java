@@ -23,4 +23,12 @@ public class Item {
     public void decreaseSellIn() {
         this.sellIn--;
     }
+
+    public void updateQuality() {
+        this.quality--;
+        if(this.sellIn > 0) {
+            this.quality--;
+        }
+
+    }
 }
