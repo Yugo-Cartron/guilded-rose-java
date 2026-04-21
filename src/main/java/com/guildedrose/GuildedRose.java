@@ -9,28 +9,7 @@ class GuildedRose {
 
     public void updateQuality() {
         for (Item item : items) {
-            if (!item.name.equals("Aged Brie")
-                    && !item.name.equals("Backstage passes to a TAFKAL80ETC concert")) {
-                decreaseQualityForNormalItemsOrSulfuras(item);
-            } else {
-                if (item.quality < 50) {
-                    item.increaseQuality();
-
-                    if (item.name.equals("Backstage passes to a TAFKAL80ETC concert")) {
-                        if (item.sellIn < 11) {
-                            if (item.quality < 50) {
-                                item.increaseQuality();
-                            }
-                        }
-
-                        if (item.sellIn < 6) {
-                            if (item.quality < 50) {
-                                item.increaseQuality();
-                            }
-                        }
-                    }
-                }
-            }
+            dailyUpdate(item);
 
             if (!item.name.equals("Sulfuras, Hand of Ragnaros")) {
                 item.decreaseSellIn();
@@ -45,6 +24,39 @@ class GuildedRose {
         if (item.quality > 0) {
             if (!item.name.equals("Sulfuras, Hand of Ragnaros")) {
                 item.decreaseQuality();
+            }
+        }
+    }
+
+    private void dailyUpdate(Item item) {
+        switch (item.name) {
+            case "Aged Brie": {
+                if (item.quality < 50) {
+                    item.increaseQuality();
+                }
+                break;
+            }
+            case "Backstage passes to a TAFKAL80ETC concert": {
+                if (item.quality < 50) {
+                    item.increaseQuality();
+
+                    if (item.sellIn < 11) {
+                        if (item.quality < 50) {
+                            item.increaseQuality();
+                        }
+                    }
+
+                    if (item.sellIn < 6) {
+                        if (item.quality < 50) {
+                            item.increaseQuality();
+                        }
+                    }
+                }
+                break;
+            }
+            default: {
+                decreaseQualityForNormalItemsOrSulfuras(item);
+                break;
             }
         }
     }
