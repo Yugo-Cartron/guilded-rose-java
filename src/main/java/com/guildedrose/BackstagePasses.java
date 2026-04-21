@@ -12,6 +12,12 @@ public class BackstagePasses extends Item {
         if(this.sellIn <= 10) {
             this.quality++;
         }
+        if(this.sellIn <= 5) {
+            this.quality++;
+        }
+        if(this.sellIn < 0) {
+            this.quality = 0;
+        }
          this.sellIn--;
     }
 }

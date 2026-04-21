@@ -20,4 +20,20 @@ public class BackstagePassesTest {
         backstagePasses.updateQuality();
         assertEquals(backstagePasses.quality, 22);
     }
+
+    @Test
+    void qualityShouldIncreaseOfThreeIfSellInIsLowerOrEqualsToFive() {
+        BackstagePasses backstagePasses = new BackstagePasses(4, 20);
+
+        backstagePasses.updateQuality();
+        assertEquals(backstagePasses.quality, 23);
+    }
+    
+    @Test
+    void qualityShouldEqual0IfSellInIsLowerThan0() {
+        BackstagePasses backstagePasses = new BackstagePasses(-1, 20);
+        
+        backstagePasses.updateQuality();
+        assertEquals(backstagePasses.quality, 0);
+    }
 }
