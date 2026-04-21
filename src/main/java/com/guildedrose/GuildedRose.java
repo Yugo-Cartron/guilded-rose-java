@@ -37,17 +37,7 @@ class GuildedRose {
             }
 
             if (item.sellIn < 0) {
-                if (!item.name.equals("Aged Brie")) {
-                    if (!item.name.equals("Backstage passes to a TAFKAL80ETC concert")) {
-                        decreaseQualityForNormalItemsOrSulfuras(item);
-                    } else {
-                        item.quality = 0;
-                    }
-                } else {
-                    if (item.quality < 50) {
-                        item.increaseQuality();
-                    }
-                }
+                updateWhenSellInIsPassed(item);
             }
         }
     }
@@ -55,6 +45,25 @@ class GuildedRose {
         if (item.quality > 0) {
             if (!item.name.equals("Sulfuras, Hand of Ragnaros")) {
                 item.decreaseQuality();
+            }
+        }
+    }
+
+    private void updateWhenSellInIsPassed(Item item) {
+        switch (item.name) {
+            case "Backstage passes to a TAFKAL80ETC concert": {
+                item.quality = 0;
+                break;
+            }
+            case "Aged Brie": {
+                if (item.quality < 50) {
+                    item.increaseQuality();
+                }
+                break;
+            }
+            default: {
+                decreaseQualityForNormalItemsOrSulfuras(item);
+                break;
             }
         }
     }
