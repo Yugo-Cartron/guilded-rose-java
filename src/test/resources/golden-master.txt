@@ -1,0 +1,3120 @@
+=== normal item | sellIn=-1 | quality=0 ===
+  Jour  0 -> sellIn= -1, quality=  0
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== normal item | sellIn=-1 | quality=1 ===
+  Jour  0 -> sellIn= -1, quality=  1
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== normal item | sellIn=-1 | quality=2 ===
+  Jour  0 -> sellIn= -1, quality=  2
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== normal item | sellIn=-1 | quality=25 ===
+  Jour  0 -> sellIn= -1, quality= 25
+  Jour  1 -> sellIn= -2, quality= 23
+  Jour  2 -> sellIn= -3, quality= 21
+  Jour  3 -> sellIn= -4, quality= 19
+  Jour  4 -> sellIn= -5, quality= 17
+  Jour  5 -> sellIn= -6, quality= 15
+  Jour  6 -> sellIn= -7, quality= 13
+  Jour  7 -> sellIn= -8, quality= 11
+  Jour  8 -> sellIn= -9, quality=  9
+  Jour  9 -> sellIn=-10, quality=  7
+  Jour 10 -> sellIn=-11, quality=  5
+
+=== normal item | sellIn=-1 | quality=49 ===
+  Jour  0 -> sellIn= -1, quality= 49
+  Jour  1 -> sellIn= -2, quality= 47
+  Jour  2 -> sellIn= -3, quality= 45
+  Jour  3 -> sellIn= -4, quality= 43
+  Jour  4 -> sellIn= -5, quality= 41
+  Jour  5 -> sellIn= -6, quality= 39
+  Jour  6 -> sellIn= -7, quality= 37
+  Jour  7 -> sellIn= -8, quality= 35
+  Jour  8 -> sellIn= -9, quality= 33
+  Jour  9 -> sellIn=-10, quality= 31
+  Jour 10 -> sellIn=-11, quality= 29
+
+=== normal item | sellIn=-1 | quality=50 ===
+  Jour  0 -> sellIn= -1, quality= 50
+  Jour  1 -> sellIn= -2, quality= 48
+  Jour  2 -> sellIn= -3, quality= 46
+  Jour  3 -> sellIn= -4, quality= 44
+  Jour  4 -> sellIn= -5, quality= 42
+  Jour  5 -> sellIn= -6, quality= 40
+  Jour  6 -> sellIn= -7, quality= 38
+  Jour  7 -> sellIn= -8, quality= 36
+  Jour  8 -> sellIn= -9, quality= 34
+  Jour  9 -> sellIn=-10, quality= 32
+  Jour 10 -> sellIn=-11, quality= 30
+
+=== normal item | sellIn=0 | quality=0 ===
+  Jour  0 -> sellIn=  0, quality=  0
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== normal item | sellIn=0 | quality=1 ===
+  Jour  0 -> sellIn=  0, quality=  1
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== normal item | sellIn=0 | quality=2 ===
+  Jour  0 -> sellIn=  0, quality=  2
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== normal item | sellIn=0 | quality=25 ===
+  Jour  0 -> sellIn=  0, quality= 25
+  Jour  1 -> sellIn= -1, quality= 23
+  Jour  2 -> sellIn= -2, quality= 21
+  Jour  3 -> sellIn= -3, quality= 19
+  Jour  4 -> sellIn= -4, quality= 17
+  Jour  5 -> sellIn= -5, quality= 15
+  Jour  6 -> sellIn= -6, quality= 13
+  Jour  7 -> sellIn= -7, quality= 11
+  Jour  8 -> sellIn= -8, quality=  9
+  Jour  9 -> sellIn= -9, quality=  7
+  Jour 10 -> sellIn=-10, quality=  5
+
+=== normal item | sellIn=0 | quality=49 ===
+  Jour  0 -> sellIn=  0, quality= 49
+  Jour  1 -> sellIn= -1, quality= 47
+  Jour  2 -> sellIn= -2, quality= 45
+  Jour  3 -> sellIn= -3, quality= 43
+  Jour  4 -> sellIn= -4, quality= 41
+  Jour  5 -> sellIn= -5, quality= 39
+  Jour  6 -> sellIn= -6, quality= 37
+  Jour  7 -> sellIn= -7, quality= 35
+  Jour  8 -> sellIn= -8, quality= 33
+  Jour  9 -> sellIn= -9, quality= 31
+  Jour 10 -> sellIn=-10, quality= 29
+
+=== normal item | sellIn=0 | quality=50 ===
+  Jour  0 -> sellIn=  0, quality= 50
+  Jour  1 -> sellIn= -1, quality= 48
+  Jour  2 -> sellIn= -2, quality= 46
+  Jour  3 -> sellIn= -3, quality= 44
+  Jour  4 -> sellIn= -4, quality= 42
+  Jour  5 -> sellIn= -5, quality= 40
+  Jour  6 -> sellIn= -6, quality= 38
+  Jour  7 -> sellIn= -7, quality= 36
+  Jour  8 -> sellIn= -8, quality= 34
+  Jour  9 -> sellIn= -9, quality= 32
+  Jour 10 -> sellIn=-10, quality= 30
+
+=== normal item | sellIn=1 | quality=0 ===
+  Jour  0 -> sellIn=  1, quality=  0
+  Jour  1 -> sellIn=  0, quality=  0
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== normal item | sellIn=1 | quality=1 ===
+  Jour  0 -> sellIn=  1, quality=  1
+  Jour  1 -> sellIn=  0, quality=  0
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== normal item | sellIn=1 | quality=2 ===
+  Jour  0 -> sellIn=  1, quality=  2
+  Jour  1 -> sellIn=  0, quality=  1
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== normal item | sellIn=1 | quality=25 ===
+  Jour  0 -> sellIn=  1, quality= 25
+  Jour  1 -> sellIn=  0, quality= 24
+  Jour  2 -> sellIn= -1, quality= 22
+  Jour  3 -> sellIn= -2, quality= 20
+  Jour  4 -> sellIn= -3, quality= 18
+  Jour  5 -> sellIn= -4, quality= 16
+  Jour  6 -> sellIn= -5, quality= 14
+  Jour  7 -> sellIn= -6, quality= 12
+  Jour  8 -> sellIn= -7, quality= 10
+  Jour  9 -> sellIn= -8, quality=  8
+  Jour 10 -> sellIn= -9, quality=  6
+
+=== normal item | sellIn=1 | quality=49 ===
+  Jour  0 -> sellIn=  1, quality= 49
+  Jour  1 -> sellIn=  0, quality= 48
+  Jour  2 -> sellIn= -1, quality= 46
+  Jour  3 -> sellIn= -2, quality= 44
+  Jour  4 -> sellIn= -3, quality= 42
+  Jour  5 -> sellIn= -4, quality= 40
+  Jour  6 -> sellIn= -5, quality= 38
+  Jour  7 -> sellIn= -6, quality= 36
+  Jour  8 -> sellIn= -7, quality= 34
+  Jour  9 -> sellIn= -8, quality= 32
+  Jour 10 -> sellIn= -9, quality= 30
+
+=== normal item | sellIn=1 | quality=50 ===
+  Jour  0 -> sellIn=  1, quality= 50
+  Jour  1 -> sellIn=  0, quality= 49
+  Jour  2 -> sellIn= -1, quality= 47
+  Jour  3 -> sellIn= -2, quality= 45
+  Jour  4 -> sellIn= -3, quality= 43
+  Jour  5 -> sellIn= -4, quality= 41
+  Jour  6 -> sellIn= -5, quality= 39
+  Jour  7 -> sellIn= -6, quality= 37
+  Jour  8 -> sellIn= -7, quality= 35
+  Jour  9 -> sellIn= -8, quality= 33
+  Jour 10 -> sellIn= -9, quality= 31
+
+=== normal item | sellIn=5 | quality=0 ===
+  Jour  0 -> sellIn=  5, quality=  0
+  Jour  1 -> sellIn=  4, quality=  0
+  Jour  2 -> sellIn=  3, quality=  0
+  Jour  3 -> sellIn=  2, quality=  0
+  Jour  4 -> sellIn=  1, quality=  0
+  Jour  5 -> sellIn=  0, quality=  0
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== normal item | sellIn=5 | quality=1 ===
+  Jour  0 -> sellIn=  5, quality=  1
+  Jour  1 -> sellIn=  4, quality=  0
+  Jour  2 -> sellIn=  3, quality=  0
+  Jour  3 -> sellIn=  2, quality=  0
+  Jour  4 -> sellIn=  1, quality=  0
+  Jour  5 -> sellIn=  0, quality=  0
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== normal item | sellIn=5 | quality=2 ===
+  Jour  0 -> sellIn=  5, quality=  2
+  Jour  1 -> sellIn=  4, quality=  1
+  Jour  2 -> sellIn=  3, quality=  0
+  Jour  3 -> sellIn=  2, quality=  0
+  Jour  4 -> sellIn=  1, quality=  0
+  Jour  5 -> sellIn=  0, quality=  0
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== normal item | sellIn=5 | quality=25 ===
+  Jour  0 -> sellIn=  5, quality= 25
+  Jour  1 -> sellIn=  4, quality= 24
+  Jour  2 -> sellIn=  3, quality= 23
+  Jour  3 -> sellIn=  2, quality= 22
+  Jour  4 -> sellIn=  1, quality= 21
+  Jour  5 -> sellIn=  0, quality= 20
+  Jour  6 -> sellIn= -1, quality= 18
+  Jour  7 -> sellIn= -2, quality= 16
+  Jour  8 -> sellIn= -3, quality= 14
+  Jour  9 -> sellIn= -4, quality= 12
+  Jour 10 -> sellIn= -5, quality= 10
+
+=== normal item | sellIn=5 | quality=49 ===
+  Jour  0 -> sellIn=  5, quality= 49
+  Jour  1 -> sellIn=  4, quality= 48
+  Jour  2 -> sellIn=  3, quality= 47
+  Jour  3 -> sellIn=  2, quality= 46
+  Jour  4 -> sellIn=  1, quality= 45
+  Jour  5 -> sellIn=  0, quality= 44
+  Jour  6 -> sellIn= -1, quality= 42
+  Jour  7 -> sellIn= -2, quality= 40
+  Jour  8 -> sellIn= -3, quality= 38
+  Jour  9 -> sellIn= -4, quality= 36
+  Jour 10 -> sellIn= -5, quality= 34
+
+=== normal item | sellIn=5 | quality=50 ===
+  Jour  0 -> sellIn=  5, quality= 50
+  Jour  1 -> sellIn=  4, quality= 49
+  Jour  2 -> sellIn=  3, quality= 48
+  Jour  3 -> sellIn=  2, quality= 47
+  Jour  4 -> sellIn=  1, quality= 46
+  Jour  5 -> sellIn=  0, quality= 45
+  Jour  6 -> sellIn= -1, quality= 43
+  Jour  7 -> sellIn= -2, quality= 41
+  Jour  8 -> sellIn= -3, quality= 39
+  Jour  9 -> sellIn= -4, quality= 37
+  Jour 10 -> sellIn= -5, quality= 35
+
+=== normal item | sellIn=6 | quality=0 ===
+  Jour  0 -> sellIn=  6, quality=  0
+  Jour  1 -> sellIn=  5, quality=  0
+  Jour  2 -> sellIn=  4, quality=  0
+  Jour  3 -> sellIn=  3, quality=  0
+  Jour  4 -> sellIn=  2, quality=  0
+  Jour  5 -> sellIn=  1, quality=  0
+  Jour  6 -> sellIn=  0, quality=  0
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== normal item | sellIn=6 | quality=1 ===
+  Jour  0 -> sellIn=  6, quality=  1
+  Jour  1 -> sellIn=  5, quality=  0
+  Jour  2 -> sellIn=  4, quality=  0
+  Jour  3 -> sellIn=  3, quality=  0
+  Jour  4 -> sellIn=  2, quality=  0
+  Jour  5 -> sellIn=  1, quality=  0
+  Jour  6 -> sellIn=  0, quality=  0
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== normal item | sellIn=6 | quality=2 ===
+  Jour  0 -> sellIn=  6, quality=  2
+  Jour  1 -> sellIn=  5, quality=  1
+  Jour  2 -> sellIn=  4, quality=  0
+  Jour  3 -> sellIn=  3, quality=  0
+  Jour  4 -> sellIn=  2, quality=  0
+  Jour  5 -> sellIn=  1, quality=  0
+  Jour  6 -> sellIn=  0, quality=  0
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== normal item | sellIn=6 | quality=25 ===
+  Jour  0 -> sellIn=  6, quality= 25
+  Jour  1 -> sellIn=  5, quality= 24
+  Jour  2 -> sellIn=  4, quality= 23
+  Jour  3 -> sellIn=  3, quality= 22
+  Jour  4 -> sellIn=  2, quality= 21
+  Jour  5 -> sellIn=  1, quality= 20
+  Jour  6 -> sellIn=  0, quality= 19
+  Jour  7 -> sellIn= -1, quality= 17
+  Jour  8 -> sellIn= -2, quality= 15
+  Jour  9 -> sellIn= -3, quality= 13
+  Jour 10 -> sellIn= -4, quality= 11
+
+=== normal item | sellIn=6 | quality=49 ===
+  Jour  0 -> sellIn=  6, quality= 49
+  Jour  1 -> sellIn=  5, quality= 48
+  Jour  2 -> sellIn=  4, quality= 47
+  Jour  3 -> sellIn=  3, quality= 46
+  Jour  4 -> sellIn=  2, quality= 45
+  Jour  5 -> sellIn=  1, quality= 44
+  Jour  6 -> sellIn=  0, quality= 43
+  Jour  7 -> sellIn= -1, quality= 41
+  Jour  8 -> sellIn= -2, quality= 39
+  Jour  9 -> sellIn= -3, quality= 37
+  Jour 10 -> sellIn= -4, quality= 35
+
+=== normal item | sellIn=6 | quality=50 ===
+  Jour  0 -> sellIn=  6, quality= 50
+  Jour  1 -> sellIn=  5, quality= 49
+  Jour  2 -> sellIn=  4, quality= 48
+  Jour  3 -> sellIn=  3, quality= 47
+  Jour  4 -> sellIn=  2, quality= 46
+  Jour  5 -> sellIn=  1, quality= 45
+  Jour  6 -> sellIn=  0, quality= 44
+  Jour  7 -> sellIn= -1, quality= 42
+  Jour  8 -> sellIn= -2, quality= 40
+  Jour  9 -> sellIn= -3, quality= 38
+  Jour 10 -> sellIn= -4, quality= 36
+
+=== normal item | sellIn=10 | quality=0 ===
+  Jour  0 -> sellIn= 10, quality=  0
+  Jour  1 -> sellIn=  9, quality=  0
+  Jour  2 -> sellIn=  8, quality=  0
+  Jour  3 -> sellIn=  7, quality=  0
+  Jour  4 -> sellIn=  6, quality=  0
+  Jour  5 -> sellIn=  5, quality=  0
+  Jour  6 -> sellIn=  4, quality=  0
+  Jour  7 -> sellIn=  3, quality=  0
+  Jour  8 -> sellIn=  2, quality=  0
+  Jour  9 -> sellIn=  1, quality=  0
+  Jour 10 -> sellIn=  0, quality=  0
+
+=== normal item | sellIn=10 | quality=1 ===
+  Jour  0 -> sellIn= 10, quality=  1
+  Jour  1 -> sellIn=  9, quality=  0
+  Jour  2 -> sellIn=  8, quality=  0
+  Jour  3 -> sellIn=  7, quality=  0
+  Jour  4 -> sellIn=  6, quality=  0
+  Jour  5 -> sellIn=  5, quality=  0
+  Jour  6 -> sellIn=  4, quality=  0
+  Jour  7 -> sellIn=  3, quality=  0
+  Jour  8 -> sellIn=  2, quality=  0
+  Jour  9 -> sellIn=  1, quality=  0
+  Jour 10 -> sellIn=  0, quality=  0
+
+=== normal item | sellIn=10 | quality=2 ===
+  Jour  0 -> sellIn= 10, quality=  2
+  Jour  1 -> sellIn=  9, quality=  1
+  Jour  2 -> sellIn=  8, quality=  0
+  Jour  3 -> sellIn=  7, quality=  0
+  Jour  4 -> sellIn=  6, quality=  0
+  Jour  5 -> sellIn=  5, quality=  0
+  Jour  6 -> sellIn=  4, quality=  0
+  Jour  7 -> sellIn=  3, quality=  0
+  Jour  8 -> sellIn=  2, quality=  0
+  Jour  9 -> sellIn=  1, quality=  0
+  Jour 10 -> sellIn=  0, quality=  0
+
+=== normal item | sellIn=10 | quality=25 ===
+  Jour  0 -> sellIn= 10, quality= 25
+  Jour  1 -> sellIn=  9, quality= 24
+  Jour  2 -> sellIn=  8, quality= 23
+  Jour  3 -> sellIn=  7, quality= 22
+  Jour  4 -> sellIn=  6, quality= 21
+  Jour  5 -> sellIn=  5, quality= 20
+  Jour  6 -> sellIn=  4, quality= 19
+  Jour  7 -> sellIn=  3, quality= 18
+  Jour  8 -> sellIn=  2, quality= 17
+  Jour  9 -> sellIn=  1, quality= 16
+  Jour 10 -> sellIn=  0, quality= 15
+
+=== normal item | sellIn=10 | quality=49 ===
+  Jour  0 -> sellIn= 10, quality= 49
+  Jour  1 -> sellIn=  9, quality= 48
+  Jour  2 -> sellIn=  8, quality= 47
+  Jour  3 -> sellIn=  7, quality= 46
+  Jour  4 -> sellIn=  6, quality= 45
+  Jour  5 -> sellIn=  5, quality= 44
+  Jour  6 -> sellIn=  4, quality= 43
+  Jour  7 -> sellIn=  3, quality= 42
+  Jour  8 -> sellIn=  2, quality= 41
+  Jour  9 -> sellIn=  1, quality= 40
+  Jour 10 -> sellIn=  0, quality= 39
+
+=== normal item | sellIn=10 | quality=50 ===
+  Jour  0 -> sellIn= 10, quality= 50
+  Jour  1 -> sellIn=  9, quality= 49
+  Jour  2 -> sellIn=  8, quality= 48
+  Jour  3 -> sellIn=  7, quality= 47
+  Jour  4 -> sellIn=  6, quality= 46
+  Jour  5 -> sellIn=  5, quality= 45
+  Jour  6 -> sellIn=  4, quality= 44
+  Jour  7 -> sellIn=  3, quality= 43
+  Jour  8 -> sellIn=  2, quality= 42
+  Jour  9 -> sellIn=  1, quality= 41
+  Jour 10 -> sellIn=  0, quality= 40
+
+=== normal item | sellIn=11 | quality=0 ===
+  Jour  0 -> sellIn= 11, quality=  0
+  Jour  1 -> sellIn= 10, quality=  0
+  Jour  2 -> sellIn=  9, quality=  0
+  Jour  3 -> sellIn=  8, quality=  0
+  Jour  4 -> sellIn=  7, quality=  0
+  Jour  5 -> sellIn=  6, quality=  0
+  Jour  6 -> sellIn=  5, quality=  0
+  Jour  7 -> sellIn=  4, quality=  0
+  Jour  8 -> sellIn=  3, quality=  0
+  Jour  9 -> sellIn=  2, quality=  0
+  Jour 10 -> sellIn=  1, quality=  0
+
+=== normal item | sellIn=11 | quality=1 ===
+  Jour  0 -> sellIn= 11, quality=  1
+  Jour  1 -> sellIn= 10, quality=  0
+  Jour  2 -> sellIn=  9, quality=  0
+  Jour  3 -> sellIn=  8, quality=  0
+  Jour  4 -> sellIn=  7, quality=  0
+  Jour  5 -> sellIn=  6, quality=  0
+  Jour  6 -> sellIn=  5, quality=  0
+  Jour  7 -> sellIn=  4, quality=  0
+  Jour  8 -> sellIn=  3, quality=  0
+  Jour  9 -> sellIn=  2, quality=  0
+  Jour 10 -> sellIn=  1, quality=  0
+
+=== normal item | sellIn=11 | quality=2 ===
+  Jour  0 -> sellIn= 11, quality=  2
+  Jour  1 -> sellIn= 10, quality=  1
+  Jour  2 -> sellIn=  9, quality=  0
+  Jour  3 -> sellIn=  8, quality=  0
+  Jour  4 -> sellIn=  7, quality=  0
+  Jour  5 -> sellIn=  6, quality=  0
+  Jour  6 -> sellIn=  5, quality=  0
+  Jour  7 -> sellIn=  4, quality=  0
+  Jour  8 -> sellIn=  3, quality=  0
+  Jour  9 -> sellIn=  2, quality=  0
+  Jour 10 -> sellIn=  1, quality=  0
+
+=== normal item | sellIn=11 | quality=25 ===
+  Jour  0 -> sellIn= 11, quality= 25
+  Jour  1 -> sellIn= 10, quality= 24
+  Jour  2 -> sellIn=  9, quality= 23
+  Jour  3 -> sellIn=  8, quality= 22
+  Jour  4 -> sellIn=  7, quality= 21
+  Jour  5 -> sellIn=  6, quality= 20
+  Jour  6 -> sellIn=  5, quality= 19
+  Jour  7 -> sellIn=  4, quality= 18
+  Jour  8 -> sellIn=  3, quality= 17
+  Jour  9 -> sellIn=  2, quality= 16
+  Jour 10 -> sellIn=  1, quality= 15
+
+=== normal item | sellIn=11 | quality=49 ===
+  Jour  0 -> sellIn= 11, quality= 49
+  Jour  1 -> sellIn= 10, quality= 48
+  Jour  2 -> sellIn=  9, quality= 47
+  Jour  3 -> sellIn=  8, quality= 46
+  Jour  4 -> sellIn=  7, quality= 45
+  Jour  5 -> sellIn=  6, quality= 44
+  Jour  6 -> sellIn=  5, quality= 43
+  Jour  7 -> sellIn=  4, quality= 42
+  Jour  8 -> sellIn=  3, quality= 41
+  Jour  9 -> sellIn=  2, quality= 40
+  Jour 10 -> sellIn=  1, quality= 39
+
+=== normal item | sellIn=11 | quality=50 ===
+  Jour  0 -> sellIn= 11, quality= 50
+  Jour  1 -> sellIn= 10, quality= 49
+  Jour  2 -> sellIn=  9, quality= 48
+  Jour  3 -> sellIn=  8, quality= 47
+  Jour  4 -> sellIn=  7, quality= 46
+  Jour  5 -> sellIn=  6, quality= 45
+  Jour  6 -> sellIn=  5, quality= 44
+  Jour  7 -> sellIn=  4, quality= 43
+  Jour  8 -> sellIn=  3, quality= 42
+  Jour  9 -> sellIn=  2, quality= 41
+  Jour 10 -> sellIn=  1, quality= 40
+
+=== normal item | sellIn=15 | quality=0 ===
+  Jour  0 -> sellIn= 15, quality=  0
+  Jour  1 -> sellIn= 14, quality=  0
+  Jour  2 -> sellIn= 13, quality=  0
+  Jour  3 -> sellIn= 12, quality=  0
+  Jour  4 -> sellIn= 11, quality=  0
+  Jour  5 -> sellIn= 10, quality=  0
+  Jour  6 -> sellIn=  9, quality=  0
+  Jour  7 -> sellIn=  8, quality=  0
+  Jour  8 -> sellIn=  7, quality=  0
+  Jour  9 -> sellIn=  6, quality=  0
+  Jour 10 -> sellIn=  5, quality=  0
+
+=== normal item | sellIn=15 | quality=1 ===
+  Jour  0 -> sellIn= 15, quality=  1
+  Jour  1 -> sellIn= 14, quality=  0
+  Jour  2 -> sellIn= 13, quality=  0
+  Jour  3 -> sellIn= 12, quality=  0
+  Jour  4 -> sellIn= 11, quality=  0
+  Jour  5 -> sellIn= 10, quality=  0
+  Jour  6 -> sellIn=  9, quality=  0
+  Jour  7 -> sellIn=  8, quality=  0
+  Jour  8 -> sellIn=  7, quality=  0
+  Jour  9 -> sellIn=  6, quality=  0
+  Jour 10 -> sellIn=  5, quality=  0
+
+=== normal item | sellIn=15 | quality=2 ===
+  Jour  0 -> sellIn= 15, quality=  2
+  Jour  1 -> sellIn= 14, quality=  1
+  Jour  2 -> sellIn= 13, quality=  0
+  Jour  3 -> sellIn= 12, quality=  0
+  Jour  4 -> sellIn= 11, quality=  0
+  Jour  5 -> sellIn= 10, quality=  0
+  Jour  6 -> sellIn=  9, quality=  0
+  Jour  7 -> sellIn=  8, quality=  0
+  Jour  8 -> sellIn=  7, quality=  0
+  Jour  9 -> sellIn=  6, quality=  0
+  Jour 10 -> sellIn=  5, quality=  0
+
+=== normal item | sellIn=15 | quality=25 ===
+  Jour  0 -> sellIn= 15, quality= 25
+  Jour  1 -> sellIn= 14, quality= 24
+  Jour  2 -> sellIn= 13, quality= 23
+  Jour  3 -> sellIn= 12, quality= 22
+  Jour  4 -> sellIn= 11, quality= 21
+  Jour  5 -> sellIn= 10, quality= 20
+  Jour  6 -> sellIn=  9, quality= 19
+  Jour  7 -> sellIn=  8, quality= 18
+  Jour  8 -> sellIn=  7, quality= 17
+  Jour  9 -> sellIn=  6, quality= 16
+  Jour 10 -> sellIn=  5, quality= 15
+
+=== normal item | sellIn=15 | quality=49 ===
+  Jour  0 -> sellIn= 15, quality= 49
+  Jour  1 -> sellIn= 14, quality= 48
+  Jour  2 -> sellIn= 13, quality= 47
+  Jour  3 -> sellIn= 12, quality= 46
+  Jour  4 -> sellIn= 11, quality= 45
+  Jour  5 -> sellIn= 10, quality= 44
+  Jour  6 -> sellIn=  9, quality= 43
+  Jour  7 -> sellIn=  8, quality= 42
+  Jour  8 -> sellIn=  7, quality= 41
+  Jour  9 -> sellIn=  6, quality= 40
+  Jour 10 -> sellIn=  5, quality= 39
+
+=== normal item | sellIn=15 | quality=50 ===
+  Jour  0 -> sellIn= 15, quality= 50
+  Jour  1 -> sellIn= 14, quality= 49
+  Jour  2 -> sellIn= 13, quality= 48
+  Jour  3 -> sellIn= 12, quality= 47
+  Jour  4 -> sellIn= 11, quality= 46
+  Jour  5 -> sellIn= 10, quality= 45
+  Jour  6 -> sellIn=  9, quality= 44
+  Jour  7 -> sellIn=  8, quality= 43
+  Jour  8 -> sellIn=  7, quality= 42
+  Jour  9 -> sellIn=  6, quality= 41
+  Jour 10 -> sellIn=  5, quality= 40
+
+=== Aged Brie | sellIn=-1 | quality=0 ===
+  Jour  0 -> sellIn= -1, quality=  0
+  Jour  1 -> sellIn= -2, quality=  2
+  Jour  2 -> sellIn= -3, quality=  4
+  Jour  3 -> sellIn= -4, quality=  6
+  Jour  4 -> sellIn= -5, quality=  8
+  Jour  5 -> sellIn= -6, quality= 10
+  Jour  6 -> sellIn= -7, quality= 12
+  Jour  7 -> sellIn= -8, quality= 14
+  Jour  8 -> sellIn= -9, quality= 16
+  Jour  9 -> sellIn=-10, quality= 18
+  Jour 10 -> sellIn=-11, quality= 20
+
+=== Aged Brie | sellIn=-1 | quality=1 ===
+  Jour  0 -> sellIn= -1, quality=  1
+  Jour  1 -> sellIn= -2, quality=  3
+  Jour  2 -> sellIn= -3, quality=  5
+  Jour  3 -> sellIn= -4, quality=  7
+  Jour  4 -> sellIn= -5, quality=  9
+  Jour  5 -> sellIn= -6, quality= 11
+  Jour  6 -> sellIn= -7, quality= 13
+  Jour  7 -> sellIn= -8, quality= 15
+  Jour  8 -> sellIn= -9, quality= 17
+  Jour  9 -> sellIn=-10, quality= 19
+  Jour 10 -> sellIn=-11, quality= 21
+
+=== Aged Brie | sellIn=-1 | quality=2 ===
+  Jour  0 -> sellIn= -1, quality=  2
+  Jour  1 -> sellIn= -2, quality=  4
+  Jour  2 -> sellIn= -3, quality=  6
+  Jour  3 -> sellIn= -4, quality=  8
+  Jour  4 -> sellIn= -5, quality= 10
+  Jour  5 -> sellIn= -6, quality= 12
+  Jour  6 -> sellIn= -7, quality= 14
+  Jour  7 -> sellIn= -8, quality= 16
+  Jour  8 -> sellIn= -9, quality= 18
+  Jour  9 -> sellIn=-10, quality= 20
+  Jour 10 -> sellIn=-11, quality= 22
+
+=== Aged Brie | sellIn=-1 | quality=25 ===
+  Jour  0 -> sellIn= -1, quality= 25
+  Jour  1 -> sellIn= -2, quality= 27
+  Jour  2 -> sellIn= -3, quality= 29
+  Jour  3 -> sellIn= -4, quality= 31
+  Jour  4 -> sellIn= -5, quality= 33
+  Jour  5 -> sellIn= -6, quality= 35
+  Jour  6 -> sellIn= -7, quality= 37
+  Jour  7 -> sellIn= -8, quality= 39
+  Jour  8 -> sellIn= -9, quality= 41
+  Jour  9 -> sellIn=-10, quality= 43
+  Jour 10 -> sellIn=-11, quality= 45
+
+=== Aged Brie | sellIn=-1 | quality=49 ===
+  Jour  0 -> sellIn= -1, quality= 49
+  Jour  1 -> sellIn= -2, quality= 50
+  Jour  2 -> sellIn= -3, quality= 50
+  Jour  3 -> sellIn= -4, quality= 50
+  Jour  4 -> sellIn= -5, quality= 50
+  Jour  5 -> sellIn= -6, quality= 50
+  Jour  6 -> sellIn= -7, quality= 50
+  Jour  7 -> sellIn= -8, quality= 50
+  Jour  8 -> sellIn= -9, quality= 50
+  Jour  9 -> sellIn=-10, quality= 50
+  Jour 10 -> sellIn=-11, quality= 50
+
+=== Aged Brie | sellIn=-1 | quality=50 ===
+  Jour  0 -> sellIn= -1, quality= 50
+  Jour  1 -> sellIn= -2, quality= 50
+  Jour  2 -> sellIn= -3, quality= 50
+  Jour  3 -> sellIn= -4, quality= 50
+  Jour  4 -> sellIn= -5, quality= 50
+  Jour  5 -> sellIn= -6, quality= 50
+  Jour  6 -> sellIn= -7, quality= 50
+  Jour  7 -> sellIn= -8, quality= 50
+  Jour  8 -> sellIn= -9, quality= 50
+  Jour  9 -> sellIn=-10, quality= 50
+  Jour 10 -> sellIn=-11, quality= 50
+
+=== Aged Brie | sellIn=0 | quality=0 ===
+  Jour  0 -> sellIn=  0, quality=  0
+  Jour  1 -> sellIn= -1, quality=  2
+  Jour  2 -> sellIn= -2, quality=  4
+  Jour  3 -> sellIn= -3, quality=  6
+  Jour  4 -> sellIn= -4, quality=  8
+  Jour  5 -> sellIn= -5, quality= 10
+  Jour  6 -> sellIn= -6, quality= 12
+  Jour  7 -> sellIn= -7, quality= 14
+  Jour  8 -> sellIn= -8, quality= 16
+  Jour  9 -> sellIn= -9, quality= 18
+  Jour 10 -> sellIn=-10, quality= 20
+
+=== Aged Brie | sellIn=0 | quality=1 ===
+  Jour  0 -> sellIn=  0, quality=  1
+  Jour  1 -> sellIn= -1, quality=  3
+  Jour  2 -> sellIn= -2, quality=  5
+  Jour  3 -> sellIn= -3, quality=  7
+  Jour  4 -> sellIn= -4, quality=  9
+  Jour  5 -> sellIn= -5, quality= 11
+  Jour  6 -> sellIn= -6, quality= 13
+  Jour  7 -> sellIn= -7, quality= 15
+  Jour  8 -> sellIn= -8, quality= 17
+  Jour  9 -> sellIn= -9, quality= 19
+  Jour 10 -> sellIn=-10, quality= 21
+
+=== Aged Brie | sellIn=0 | quality=2 ===
+  Jour  0 -> sellIn=  0, quality=  2
+  Jour  1 -> sellIn= -1, quality=  4
+  Jour  2 -> sellIn= -2, quality=  6
+  Jour  3 -> sellIn= -3, quality=  8
+  Jour  4 -> sellIn= -4, quality= 10
+  Jour  5 -> sellIn= -5, quality= 12
+  Jour  6 -> sellIn= -6, quality= 14
+  Jour  7 -> sellIn= -7, quality= 16
+  Jour  8 -> sellIn= -8, quality= 18
+  Jour  9 -> sellIn= -9, quality= 20
+  Jour 10 -> sellIn=-10, quality= 22
+
+=== Aged Brie | sellIn=0 | quality=25 ===
+  Jour  0 -> sellIn=  0, quality= 25
+  Jour  1 -> sellIn= -1, quality= 27
+  Jour  2 -> sellIn= -2, quality= 29
+  Jour  3 -> sellIn= -3, quality= 31
+  Jour  4 -> sellIn= -4, quality= 33
+  Jour  5 -> sellIn= -5, quality= 35
+  Jour  6 -> sellIn= -6, quality= 37
+  Jour  7 -> sellIn= -7, quality= 39
+  Jour  8 -> sellIn= -8, quality= 41
+  Jour  9 -> sellIn= -9, quality= 43
+  Jour 10 -> sellIn=-10, quality= 45
+
+=== Aged Brie | sellIn=0 | quality=49 ===
+  Jour  0 -> sellIn=  0, quality= 49
+  Jour  1 -> sellIn= -1, quality= 50
+  Jour  2 -> sellIn= -2, quality= 50
+  Jour  3 -> sellIn= -3, quality= 50
+  Jour  4 -> sellIn= -4, quality= 50
+  Jour  5 -> sellIn= -5, quality= 50
+  Jour  6 -> sellIn= -6, quality= 50
+  Jour  7 -> sellIn= -7, quality= 50
+  Jour  8 -> sellIn= -8, quality= 50
+  Jour  9 -> sellIn= -9, quality= 50
+  Jour 10 -> sellIn=-10, quality= 50
+
+=== Aged Brie | sellIn=0 | quality=50 ===
+  Jour  0 -> sellIn=  0, quality= 50
+  Jour  1 -> sellIn= -1, quality= 50
+  Jour  2 -> sellIn= -2, quality= 50
+  Jour  3 -> sellIn= -3, quality= 50
+  Jour  4 -> sellIn= -4, quality= 50
+  Jour  5 -> sellIn= -5, quality= 50
+  Jour  6 -> sellIn= -6, quality= 50
+  Jour  7 -> sellIn= -7, quality= 50
+  Jour  8 -> sellIn= -8, quality= 50
+  Jour  9 -> sellIn= -9, quality= 50
+  Jour 10 -> sellIn=-10, quality= 50
+
+=== Aged Brie | sellIn=1 | quality=0 ===
+  Jour  0 -> sellIn=  1, quality=  0
+  Jour  1 -> sellIn=  0, quality=  1
+  Jour  2 -> sellIn= -1, quality=  3
+  Jour  3 -> sellIn= -2, quality=  5
+  Jour  4 -> sellIn= -3, quality=  7
+  Jour  5 -> sellIn= -4, quality=  9
+  Jour  6 -> sellIn= -5, quality= 11
+  Jour  7 -> sellIn= -6, quality= 13
+  Jour  8 -> sellIn= -7, quality= 15
+  Jour  9 -> sellIn= -8, quality= 17
+  Jour 10 -> sellIn= -9, quality= 19
+
+=== Aged Brie | sellIn=1 | quality=1 ===
+  Jour  0 -> sellIn=  1, quality=  1
+  Jour  1 -> sellIn=  0, quality=  2
+  Jour  2 -> sellIn= -1, quality=  4
+  Jour  3 -> sellIn= -2, quality=  6
+  Jour  4 -> sellIn= -3, quality=  8
+  Jour  5 -> sellIn= -4, quality= 10
+  Jour  6 -> sellIn= -5, quality= 12
+  Jour  7 -> sellIn= -6, quality= 14
+  Jour  8 -> sellIn= -7, quality= 16
+  Jour  9 -> sellIn= -8, quality= 18
+  Jour 10 -> sellIn= -9, quality= 20
+
+=== Aged Brie | sellIn=1 | quality=2 ===
+  Jour  0 -> sellIn=  1, quality=  2
+  Jour  1 -> sellIn=  0, quality=  3
+  Jour  2 -> sellIn= -1, quality=  5
+  Jour  3 -> sellIn= -2, quality=  7
+  Jour  4 -> sellIn= -3, quality=  9
+  Jour  5 -> sellIn= -4, quality= 11
+  Jour  6 -> sellIn= -5, quality= 13
+  Jour  7 -> sellIn= -6, quality= 15
+  Jour  8 -> sellIn= -7, quality= 17
+  Jour  9 -> sellIn= -8, quality= 19
+  Jour 10 -> sellIn= -9, quality= 21
+
+=== Aged Brie | sellIn=1 | quality=25 ===
+  Jour  0 -> sellIn=  1, quality= 25
+  Jour  1 -> sellIn=  0, quality= 26
+  Jour  2 -> sellIn= -1, quality= 28
+  Jour  3 -> sellIn= -2, quality= 30
+  Jour  4 -> sellIn= -3, quality= 32
+  Jour  5 -> sellIn= -4, quality= 34
+  Jour  6 -> sellIn= -5, quality= 36
+  Jour  7 -> sellIn= -6, quality= 38
+  Jour  8 -> sellIn= -7, quality= 40
+  Jour  9 -> sellIn= -8, quality= 42
+  Jour 10 -> sellIn= -9, quality= 44
+
+=== Aged Brie | sellIn=1 | quality=49 ===
+  Jour  0 -> sellIn=  1, quality= 49
+  Jour  1 -> sellIn=  0, quality= 50
+  Jour  2 -> sellIn= -1, quality= 50
+  Jour  3 -> sellIn= -2, quality= 50
+  Jour  4 -> sellIn= -3, quality= 50
+  Jour  5 -> sellIn= -4, quality= 50
+  Jour  6 -> sellIn= -5, quality= 50
+  Jour  7 -> sellIn= -6, quality= 50
+  Jour  8 -> sellIn= -7, quality= 50
+  Jour  9 -> sellIn= -8, quality= 50
+  Jour 10 -> sellIn= -9, quality= 50
+
+=== Aged Brie | sellIn=1 | quality=50 ===
+  Jour  0 -> sellIn=  1, quality= 50
+  Jour  1 -> sellIn=  0, quality= 50
+  Jour  2 -> sellIn= -1, quality= 50
+  Jour  3 -> sellIn= -2, quality= 50
+  Jour  4 -> sellIn= -3, quality= 50
+  Jour  5 -> sellIn= -4, quality= 50
+  Jour  6 -> sellIn= -5, quality= 50
+  Jour  7 -> sellIn= -6, quality= 50
+  Jour  8 -> sellIn= -7, quality= 50
+  Jour  9 -> sellIn= -8, quality= 50
+  Jour 10 -> sellIn= -9, quality= 50
+
+=== Aged Brie | sellIn=5 | quality=0 ===
+  Jour  0 -> sellIn=  5, quality=  0
+  Jour  1 -> sellIn=  4, quality=  1
+  Jour  2 -> sellIn=  3, quality=  2
+  Jour  3 -> sellIn=  2, quality=  3
+  Jour  4 -> sellIn=  1, quality=  4
+  Jour  5 -> sellIn=  0, quality=  5
+  Jour  6 -> sellIn= -1, quality=  7
+  Jour  7 -> sellIn= -2, quality=  9
+  Jour  8 -> sellIn= -3, quality= 11
+  Jour  9 -> sellIn= -4, quality= 13
+  Jour 10 -> sellIn= -5, quality= 15
+
+=== Aged Brie | sellIn=5 | quality=1 ===
+  Jour  0 -> sellIn=  5, quality=  1
+  Jour  1 -> sellIn=  4, quality=  2
+  Jour  2 -> sellIn=  3, quality=  3
+  Jour  3 -> sellIn=  2, quality=  4
+  Jour  4 -> sellIn=  1, quality=  5
+  Jour  5 -> sellIn=  0, quality=  6
+  Jour  6 -> sellIn= -1, quality=  8
+  Jour  7 -> sellIn= -2, quality= 10
+  Jour  8 -> sellIn= -3, quality= 12
+  Jour  9 -> sellIn= -4, quality= 14
+  Jour 10 -> sellIn= -5, quality= 16
+
+=== Aged Brie | sellIn=5 | quality=2 ===
+  Jour  0 -> sellIn=  5, quality=  2
+  Jour  1 -> sellIn=  4, quality=  3
+  Jour  2 -> sellIn=  3, quality=  4
+  Jour  3 -> sellIn=  2, quality=  5
+  Jour  4 -> sellIn=  1, quality=  6
+  Jour  5 -> sellIn=  0, quality=  7
+  Jour  6 -> sellIn= -1, quality=  9
+  Jour  7 -> sellIn= -2, quality= 11
+  Jour  8 -> sellIn= -3, quality= 13
+  Jour  9 -> sellIn= -4, quality= 15
+  Jour 10 -> sellIn= -5, quality= 17
+
+=== Aged Brie | sellIn=5 | quality=25 ===
+  Jour  0 -> sellIn=  5, quality= 25
+  Jour  1 -> sellIn=  4, quality= 26
+  Jour  2 -> sellIn=  3, quality= 27
+  Jour  3 -> sellIn=  2, quality= 28
+  Jour  4 -> sellIn=  1, quality= 29
+  Jour  5 -> sellIn=  0, quality= 30
+  Jour  6 -> sellIn= -1, quality= 32
+  Jour  7 -> sellIn= -2, quality= 34
+  Jour  8 -> sellIn= -3, quality= 36
+  Jour  9 -> sellIn= -4, quality= 38
+  Jour 10 -> sellIn= -5, quality= 40
+
+=== Aged Brie | sellIn=5 | quality=49 ===
+  Jour  0 -> sellIn=  5, quality= 49
+  Jour  1 -> sellIn=  4, quality= 50
+  Jour  2 -> sellIn=  3, quality= 50
+  Jour  3 -> sellIn=  2, quality= 50
+  Jour  4 -> sellIn=  1, quality= 50
+  Jour  5 -> sellIn=  0, quality= 50
+  Jour  6 -> sellIn= -1, quality= 50
+  Jour  7 -> sellIn= -2, quality= 50
+  Jour  8 -> sellIn= -3, quality= 50
+  Jour  9 -> sellIn= -4, quality= 50
+  Jour 10 -> sellIn= -5, quality= 50
+
+=== Aged Brie | sellIn=5 | quality=50 ===
+  Jour  0 -> sellIn=  5, quality= 50
+  Jour  1 -> sellIn=  4, quality= 50
+  Jour  2 -> sellIn=  3, quality= 50
+  Jour  3 -> sellIn=  2, quality= 50
+  Jour  4 -> sellIn=  1, quality= 50
+  Jour  5 -> sellIn=  0, quality= 50
+  Jour  6 -> sellIn= -1, quality= 50
+  Jour  7 -> sellIn= -2, quality= 50
+  Jour  8 -> sellIn= -3, quality= 50
+  Jour  9 -> sellIn= -4, quality= 50
+  Jour 10 -> sellIn= -5, quality= 50
+
+=== Aged Brie | sellIn=6 | quality=0 ===
+  Jour  0 -> sellIn=  6, quality=  0
+  Jour  1 -> sellIn=  5, quality=  1
+  Jour  2 -> sellIn=  4, quality=  2
+  Jour  3 -> sellIn=  3, quality=  3
+  Jour  4 -> sellIn=  2, quality=  4
+  Jour  5 -> sellIn=  1, quality=  5
+  Jour  6 -> sellIn=  0, quality=  6
+  Jour  7 -> sellIn= -1, quality=  8
+  Jour  8 -> sellIn= -2, quality= 10
+  Jour  9 -> sellIn= -3, quality= 12
+  Jour 10 -> sellIn= -4, quality= 14
+
+=== Aged Brie | sellIn=6 | quality=1 ===
+  Jour  0 -> sellIn=  6, quality=  1
+  Jour  1 -> sellIn=  5, quality=  2
+  Jour  2 -> sellIn=  4, quality=  3
+  Jour  3 -> sellIn=  3, quality=  4
+  Jour  4 -> sellIn=  2, quality=  5
+  Jour  5 -> sellIn=  1, quality=  6
+  Jour  6 -> sellIn=  0, quality=  7
+  Jour  7 -> sellIn= -1, quality=  9
+  Jour  8 -> sellIn= -2, quality= 11
+  Jour  9 -> sellIn= -3, quality= 13
+  Jour 10 -> sellIn= -4, quality= 15
+
+=== Aged Brie | sellIn=6 | quality=2 ===
+  Jour  0 -> sellIn=  6, quality=  2
+  Jour  1 -> sellIn=  5, quality=  3
+  Jour  2 -> sellIn=  4, quality=  4
+  Jour  3 -> sellIn=  3, quality=  5
+  Jour  4 -> sellIn=  2, quality=  6
+  Jour  5 -> sellIn=  1, quality=  7
+  Jour  6 -> sellIn=  0, quality=  8
+  Jour  7 -> sellIn= -1, quality= 10
+  Jour  8 -> sellIn= -2, quality= 12
+  Jour  9 -> sellIn= -3, quality= 14
+  Jour 10 -> sellIn= -4, quality= 16
+
+=== Aged Brie | sellIn=6 | quality=25 ===
+  Jour  0 -> sellIn=  6, quality= 25
+  Jour  1 -> sellIn=  5, quality= 26
+  Jour  2 -> sellIn=  4, quality= 27
+  Jour  3 -> sellIn=  3, quality= 28
+  Jour  4 -> sellIn=  2, quality= 29
+  Jour  5 -> sellIn=  1, quality= 30
+  Jour  6 -> sellIn=  0, quality= 31
+  Jour  7 -> sellIn= -1, quality= 33
+  Jour  8 -> sellIn= -2, quality= 35
+  Jour  9 -> sellIn= -3, quality= 37
+  Jour 10 -> sellIn= -4, quality= 39
+
+=== Aged Brie | sellIn=6 | quality=49 ===
+  Jour  0 -> sellIn=  6, quality= 49
+  Jour  1 -> sellIn=  5, quality= 50
+  Jour  2 -> sellIn=  4, quality= 50
+  Jour  3 -> sellIn=  3, quality= 50
+  Jour  4 -> sellIn=  2, quality= 50
+  Jour  5 -> sellIn=  1, quality= 50
+  Jour  6 -> sellIn=  0, quality= 50
+  Jour  7 -> sellIn= -1, quality= 50
+  Jour  8 -> sellIn= -2, quality= 50
+  Jour  9 -> sellIn= -3, quality= 50
+  Jour 10 -> sellIn= -4, quality= 50
+
+=== Aged Brie | sellIn=6 | quality=50 ===
+  Jour  0 -> sellIn=  6, quality= 50
+  Jour  1 -> sellIn=  5, quality= 50
+  Jour  2 -> sellIn=  4, quality= 50
+  Jour  3 -> sellIn=  3, quality= 50
+  Jour  4 -> sellIn=  2, quality= 50
+  Jour  5 -> sellIn=  1, quality= 50
+  Jour  6 -> sellIn=  0, quality= 50
+  Jour  7 -> sellIn= -1, quality= 50
+  Jour  8 -> sellIn= -2, quality= 50
+  Jour  9 -> sellIn= -3, quality= 50
+  Jour 10 -> sellIn= -4, quality= 50
+
+=== Aged Brie | sellIn=10 | quality=0 ===
+  Jour  0 -> sellIn= 10, quality=  0
+  Jour  1 -> sellIn=  9, quality=  1
+  Jour  2 -> sellIn=  8, quality=  2
+  Jour  3 -> sellIn=  7, quality=  3
+  Jour  4 -> sellIn=  6, quality=  4
+  Jour  5 -> sellIn=  5, quality=  5
+  Jour  6 -> sellIn=  4, quality=  6
+  Jour  7 -> sellIn=  3, quality=  7
+  Jour  8 -> sellIn=  2, quality=  8
+  Jour  9 -> sellIn=  1, quality=  9
+  Jour 10 -> sellIn=  0, quality= 10
+
+=== Aged Brie | sellIn=10 | quality=1 ===
+  Jour  0 -> sellIn= 10, quality=  1
+  Jour  1 -> sellIn=  9, quality=  2
+  Jour  2 -> sellIn=  8, quality=  3
+  Jour  3 -> sellIn=  7, quality=  4
+  Jour  4 -> sellIn=  6, quality=  5
+  Jour  5 -> sellIn=  5, quality=  6
+  Jour  6 -> sellIn=  4, quality=  7
+  Jour  7 -> sellIn=  3, quality=  8
+  Jour  8 -> sellIn=  2, quality=  9
+  Jour  9 -> sellIn=  1, quality= 10
+  Jour 10 -> sellIn=  0, quality= 11
+
+=== Aged Brie | sellIn=10 | quality=2 ===
+  Jour  0 -> sellIn= 10, quality=  2
+  Jour  1 -> sellIn=  9, quality=  3
+  Jour  2 -> sellIn=  8, quality=  4
+  Jour  3 -> sellIn=  7, quality=  5
+  Jour  4 -> sellIn=  6, quality=  6
+  Jour  5 -> sellIn=  5, quality=  7
+  Jour  6 -> sellIn=  4, quality=  8
+  Jour  7 -> sellIn=  3, quality=  9
+  Jour  8 -> sellIn=  2, quality= 10
+  Jour  9 -> sellIn=  1, quality= 11
+  Jour 10 -> sellIn=  0, quality= 12
+
+=== Aged Brie | sellIn=10 | quality=25 ===
+  Jour  0 -> sellIn= 10, quality= 25
+  Jour  1 -> sellIn=  9, quality= 26
+  Jour  2 -> sellIn=  8, quality= 27
+  Jour  3 -> sellIn=  7, quality= 28
+  Jour  4 -> sellIn=  6, quality= 29
+  Jour  5 -> sellIn=  5, quality= 30
+  Jour  6 -> sellIn=  4, quality= 31
+  Jour  7 -> sellIn=  3, quality= 32
+  Jour  8 -> sellIn=  2, quality= 33
+  Jour  9 -> sellIn=  1, quality= 34
+  Jour 10 -> sellIn=  0, quality= 35
+
+=== Aged Brie | sellIn=10 | quality=49 ===
+  Jour  0 -> sellIn= 10, quality= 49
+  Jour  1 -> sellIn=  9, quality= 50
+  Jour  2 -> sellIn=  8, quality= 50
+  Jour  3 -> sellIn=  7, quality= 50
+  Jour  4 -> sellIn=  6, quality= 50
+  Jour  5 -> sellIn=  5, quality= 50
+  Jour  6 -> sellIn=  4, quality= 50
+  Jour  7 -> sellIn=  3, quality= 50
+  Jour  8 -> sellIn=  2, quality= 50
+  Jour  9 -> sellIn=  1, quality= 50
+  Jour 10 -> sellIn=  0, quality= 50
+
+=== Aged Brie | sellIn=10 | quality=50 ===
+  Jour  0 -> sellIn= 10, quality= 50
+  Jour  1 -> sellIn=  9, quality= 50
+  Jour  2 -> sellIn=  8, quality= 50
+  Jour  3 -> sellIn=  7, quality= 50
+  Jour  4 -> sellIn=  6, quality= 50
+  Jour  5 -> sellIn=  5, quality= 50
+  Jour  6 -> sellIn=  4, quality= 50
+  Jour  7 -> sellIn=  3, quality= 50
+  Jour  8 -> sellIn=  2, quality= 50
+  Jour  9 -> sellIn=  1, quality= 50
+  Jour 10 -> sellIn=  0, quality= 50
+
+=== Aged Brie | sellIn=11 | quality=0 ===
+  Jour  0 -> sellIn= 11, quality=  0
+  Jour  1 -> sellIn= 10, quality=  1
+  Jour  2 -> sellIn=  9, quality=  2
+  Jour  3 -> sellIn=  8, quality=  3
+  Jour  4 -> sellIn=  7, quality=  4
+  Jour  5 -> sellIn=  6, quality=  5
+  Jour  6 -> sellIn=  5, quality=  6
+  Jour  7 -> sellIn=  4, quality=  7
+  Jour  8 -> sellIn=  3, quality=  8
+  Jour  9 -> sellIn=  2, quality=  9
+  Jour 10 -> sellIn=  1, quality= 10
+
+=== Aged Brie | sellIn=11 | quality=1 ===
+  Jour  0 -> sellIn= 11, quality=  1
+  Jour  1 -> sellIn= 10, quality=  2
+  Jour  2 -> sellIn=  9, quality=  3
+  Jour  3 -> sellIn=  8, quality=  4
+  Jour  4 -> sellIn=  7, quality=  5
+  Jour  5 -> sellIn=  6, quality=  6
+  Jour  6 -> sellIn=  5, quality=  7
+  Jour  7 -> sellIn=  4, quality=  8
+  Jour  8 -> sellIn=  3, quality=  9
+  Jour  9 -> sellIn=  2, quality= 10
+  Jour 10 -> sellIn=  1, quality= 11
+
+=== Aged Brie | sellIn=11 | quality=2 ===
+  Jour  0 -> sellIn= 11, quality=  2
+  Jour  1 -> sellIn= 10, quality=  3
+  Jour  2 -> sellIn=  9, quality=  4
+  Jour  3 -> sellIn=  8, quality=  5
+  Jour  4 -> sellIn=  7, quality=  6
+  Jour  5 -> sellIn=  6, quality=  7
+  Jour  6 -> sellIn=  5, quality=  8
+  Jour  7 -> sellIn=  4, quality=  9
+  Jour  8 -> sellIn=  3, quality= 10
+  Jour  9 -> sellIn=  2, quality= 11
+  Jour 10 -> sellIn=  1, quality= 12
+
+=== Aged Brie | sellIn=11 | quality=25 ===
+  Jour  0 -> sellIn= 11, quality= 25
+  Jour  1 -> sellIn= 10, quality= 26
+  Jour  2 -> sellIn=  9, quality= 27
+  Jour  3 -> sellIn=  8, quality= 28
+  Jour  4 -> sellIn=  7, quality= 29
+  Jour  5 -> sellIn=  6, quality= 30
+  Jour  6 -> sellIn=  5, quality= 31
+  Jour  7 -> sellIn=  4, quality= 32
+  Jour  8 -> sellIn=  3, quality= 33
+  Jour  9 -> sellIn=  2, quality= 34
+  Jour 10 -> sellIn=  1, quality= 35
+
+=== Aged Brie | sellIn=11 | quality=49 ===
+  Jour  0 -> sellIn= 11, quality= 49
+  Jour  1 -> sellIn= 10, quality= 50
+  Jour  2 -> sellIn=  9, quality= 50
+  Jour  3 -> sellIn=  8, quality= 50
+  Jour  4 -> sellIn=  7, quality= 50
+  Jour  5 -> sellIn=  6, quality= 50
+  Jour  6 -> sellIn=  5, quality= 50
+  Jour  7 -> sellIn=  4, quality= 50
+  Jour  8 -> sellIn=  3, quality= 50
+  Jour  9 -> sellIn=  2, quality= 50
+  Jour 10 -> sellIn=  1, quality= 50
+
+=== Aged Brie | sellIn=11 | quality=50 ===
+  Jour  0 -> sellIn= 11, quality= 50
+  Jour  1 -> sellIn= 10, quality= 50
+  Jour  2 -> sellIn=  9, quality= 50
+  Jour  3 -> sellIn=  8, quality= 50
+  Jour  4 -> sellIn=  7, quality= 50
+  Jour  5 -> sellIn=  6, quality= 50
+  Jour  6 -> sellIn=  5, quality= 50
+  Jour  7 -> sellIn=  4, quality= 50
+  Jour  8 -> sellIn=  3, quality= 50
+  Jour  9 -> sellIn=  2, quality= 50
+  Jour 10 -> sellIn=  1, quality= 50
+
+=== Aged Brie | sellIn=15 | quality=0 ===
+  Jour  0 -> sellIn= 15, quality=  0
+  Jour  1 -> sellIn= 14, quality=  1
+  Jour  2 -> sellIn= 13, quality=  2
+  Jour  3 -> sellIn= 12, quality=  3
+  Jour  4 -> sellIn= 11, quality=  4
+  Jour  5 -> sellIn= 10, quality=  5
+  Jour  6 -> sellIn=  9, quality=  6
+  Jour  7 -> sellIn=  8, quality=  7
+  Jour  8 -> sellIn=  7, quality=  8
+  Jour  9 -> sellIn=  6, quality=  9
+  Jour 10 -> sellIn=  5, quality= 10
+
+=== Aged Brie | sellIn=15 | quality=1 ===
+  Jour  0 -> sellIn= 15, quality=  1
+  Jour  1 -> sellIn= 14, quality=  2
+  Jour  2 -> sellIn= 13, quality=  3
+  Jour  3 -> sellIn= 12, quality=  4
+  Jour  4 -> sellIn= 11, quality=  5
+  Jour  5 -> sellIn= 10, quality=  6
+  Jour  6 -> sellIn=  9, quality=  7
+  Jour  7 -> sellIn=  8, quality=  8
+  Jour  8 -> sellIn=  7, quality=  9
+  Jour  9 -> sellIn=  6, quality= 10
+  Jour 10 -> sellIn=  5, quality= 11
+
+=== Aged Brie | sellIn=15 | quality=2 ===
+  Jour  0 -> sellIn= 15, quality=  2
+  Jour  1 -> sellIn= 14, quality=  3
+  Jour  2 -> sellIn= 13, quality=  4
+  Jour  3 -> sellIn= 12, quality=  5
+  Jour  4 -> sellIn= 11, quality=  6
+  Jour  5 -> sellIn= 10, quality=  7
+  Jour  6 -> sellIn=  9, quality=  8
+  Jour  7 -> sellIn=  8, quality=  9
+  Jour  8 -> sellIn=  7, quality= 10
+  Jour  9 -> sellIn=  6, quality= 11
+  Jour 10 -> sellIn=  5, quality= 12
+
+=== Aged Brie | sellIn=15 | quality=25 ===
+  Jour  0 -> sellIn= 15, quality= 25
+  Jour  1 -> sellIn= 14, quality= 26
+  Jour  2 -> sellIn= 13, quality= 27
+  Jour  3 -> sellIn= 12, quality= 28
+  Jour  4 -> sellIn= 11, quality= 29
+  Jour  5 -> sellIn= 10, quality= 30
+  Jour  6 -> sellIn=  9, quality= 31
+  Jour  7 -> sellIn=  8, quality= 32
+  Jour  8 -> sellIn=  7, quality= 33
+  Jour  9 -> sellIn=  6, quality= 34
+  Jour 10 -> sellIn=  5, quality= 35
+
+=== Aged Brie | sellIn=15 | quality=49 ===
+  Jour  0 -> sellIn= 15, quality= 49
+  Jour  1 -> sellIn= 14, quality= 50
+  Jour  2 -> sellIn= 13, quality= 50
+  Jour  3 -> sellIn= 12, quality= 50
+  Jour  4 -> sellIn= 11, quality= 50
+  Jour  5 -> sellIn= 10, quality= 50
+  Jour  6 -> sellIn=  9, quality= 50
+  Jour  7 -> sellIn=  8, quality= 50
+  Jour  8 -> sellIn=  7, quality= 50
+  Jour  9 -> sellIn=  6, quality= 50
+  Jour 10 -> sellIn=  5, quality= 50
+
+=== Aged Brie | sellIn=15 | quality=50 ===
+  Jour  0 -> sellIn= 15, quality= 50
+  Jour  1 -> sellIn= 14, quality= 50
+  Jour  2 -> sellIn= 13, quality= 50
+  Jour  3 -> sellIn= 12, quality= 50
+  Jour  4 -> sellIn= 11, quality= 50
+  Jour  5 -> sellIn= 10, quality= 50
+  Jour  6 -> sellIn=  9, quality= 50
+  Jour  7 -> sellIn=  8, quality= 50
+  Jour  8 -> sellIn=  7, quality= 50
+  Jour  9 -> sellIn=  6, quality= 50
+  Jour 10 -> sellIn=  5, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=-1 | quality=0 ===
+  Jour  0 -> sellIn= -1, quality=  0
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=-1 | quality=1 ===
+  Jour  0 -> sellIn= -1, quality=  1
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=-1 | quality=2 ===
+  Jour  0 -> sellIn= -1, quality=  2
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=-1 | quality=25 ===
+  Jour  0 -> sellIn= -1, quality= 25
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=-1 | quality=49 ===
+  Jour  0 -> sellIn= -1, quality= 49
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=-1 | quality=50 ===
+  Jour  0 -> sellIn= -1, quality= 50
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=0 | quality=0 ===
+  Jour  0 -> sellIn=  0, quality=  0
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=0 | quality=1 ===
+  Jour  0 -> sellIn=  0, quality=  1
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=0 | quality=2 ===
+  Jour  0 -> sellIn=  0, quality=  2
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=0 | quality=25 ===
+  Jour  0 -> sellIn=  0, quality= 25
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=0 | quality=49 ===
+  Jour  0 -> sellIn=  0, quality= 49
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=0 | quality=50 ===
+  Jour  0 -> sellIn=  0, quality= 50
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=1 | quality=0 ===
+  Jour  0 -> sellIn=  1, quality=  0
+  Jour  1 -> sellIn=  0, quality=  3
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=1 | quality=1 ===
+  Jour  0 -> sellIn=  1, quality=  1
+  Jour  1 -> sellIn=  0, quality=  4
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=1 | quality=2 ===
+  Jour  0 -> sellIn=  1, quality=  2
+  Jour  1 -> sellIn=  0, quality=  5
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=1 | quality=25 ===
+  Jour  0 -> sellIn=  1, quality= 25
+  Jour  1 -> sellIn=  0, quality= 28
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=1 | quality=49 ===
+  Jour  0 -> sellIn=  1, quality= 49
+  Jour  1 -> sellIn=  0, quality= 50
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=1 | quality=50 ===
+  Jour  0 -> sellIn=  1, quality= 50
+  Jour  1 -> sellIn=  0, quality= 50
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=5 | quality=0 ===
+  Jour  0 -> sellIn=  5, quality=  0
+  Jour  1 -> sellIn=  4, quality=  3
+  Jour  2 -> sellIn=  3, quality=  6
+  Jour  3 -> sellIn=  2, quality=  9
+  Jour  4 -> sellIn=  1, quality= 12
+  Jour  5 -> sellIn=  0, quality= 15
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=5 | quality=1 ===
+  Jour  0 -> sellIn=  5, quality=  1
+  Jour  1 -> sellIn=  4, quality=  4
+  Jour  2 -> sellIn=  3, quality=  7
+  Jour  3 -> sellIn=  2, quality= 10
+  Jour  4 -> sellIn=  1, quality= 13
+  Jour  5 -> sellIn=  0, quality= 16
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=5 | quality=2 ===
+  Jour  0 -> sellIn=  5, quality=  2
+  Jour  1 -> sellIn=  4, quality=  5
+  Jour  2 -> sellIn=  3, quality=  8
+  Jour  3 -> sellIn=  2, quality= 11
+  Jour  4 -> sellIn=  1, quality= 14
+  Jour  5 -> sellIn=  0, quality= 17
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=5 | quality=25 ===
+  Jour  0 -> sellIn=  5, quality= 25
+  Jour  1 -> sellIn=  4, quality= 28
+  Jour  2 -> sellIn=  3, quality= 31
+  Jour  3 -> sellIn=  2, quality= 34
+  Jour  4 -> sellIn=  1, quality= 37
+  Jour  5 -> sellIn=  0, quality= 40
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=5 | quality=49 ===
+  Jour  0 -> sellIn=  5, quality= 49
+  Jour  1 -> sellIn=  4, quality= 50
+  Jour  2 -> sellIn=  3, quality= 50
+  Jour  3 -> sellIn=  2, quality= 50
+  Jour  4 -> sellIn=  1, quality= 50
+  Jour  5 -> sellIn=  0, quality= 50
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=5 | quality=50 ===
+  Jour  0 -> sellIn=  5, quality= 50
+  Jour  1 -> sellIn=  4, quality= 50
+  Jour  2 -> sellIn=  3, quality= 50
+  Jour  3 -> sellIn=  2, quality= 50
+  Jour  4 -> sellIn=  1, quality= 50
+  Jour  5 -> sellIn=  0, quality= 50
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=6 | quality=0 ===
+  Jour  0 -> sellIn=  6, quality=  0
+  Jour  1 -> sellIn=  5, quality=  2
+  Jour  2 -> sellIn=  4, quality=  5
+  Jour  3 -> sellIn=  3, quality=  8
+  Jour  4 -> sellIn=  2, quality= 11
+  Jour  5 -> sellIn=  1, quality= 14
+  Jour  6 -> sellIn=  0, quality= 17
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=6 | quality=1 ===
+  Jour  0 -> sellIn=  6, quality=  1
+  Jour  1 -> sellIn=  5, quality=  3
+  Jour  2 -> sellIn=  4, quality=  6
+  Jour  3 -> sellIn=  3, quality=  9
+  Jour  4 -> sellIn=  2, quality= 12
+  Jour  5 -> sellIn=  1, quality= 15
+  Jour  6 -> sellIn=  0, quality= 18
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=6 | quality=2 ===
+  Jour  0 -> sellIn=  6, quality=  2
+  Jour  1 -> sellIn=  5, quality=  4
+  Jour  2 -> sellIn=  4, quality=  7
+  Jour  3 -> sellIn=  3, quality= 10
+  Jour  4 -> sellIn=  2, quality= 13
+  Jour  5 -> sellIn=  1, quality= 16
+  Jour  6 -> sellIn=  0, quality= 19
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=6 | quality=25 ===
+  Jour  0 -> sellIn=  6, quality= 25
+  Jour  1 -> sellIn=  5, quality= 27
+  Jour  2 -> sellIn=  4, quality= 30
+  Jour  3 -> sellIn=  3, quality= 33
+  Jour  4 -> sellIn=  2, quality= 36
+  Jour  5 -> sellIn=  1, quality= 39
+  Jour  6 -> sellIn=  0, quality= 42
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=6 | quality=49 ===
+  Jour  0 -> sellIn=  6, quality= 49
+  Jour  1 -> sellIn=  5, quality= 50
+  Jour  2 -> sellIn=  4, quality= 50
+  Jour  3 -> sellIn=  3, quality= 50
+  Jour  4 -> sellIn=  2, quality= 50
+  Jour  5 -> sellIn=  1, quality= 50
+  Jour  6 -> sellIn=  0, quality= 50
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=6 | quality=50 ===
+  Jour  0 -> sellIn=  6, quality= 50
+  Jour  1 -> sellIn=  5, quality= 50
+  Jour  2 -> sellIn=  4, quality= 50
+  Jour  3 -> sellIn=  3, quality= 50
+  Jour  4 -> sellIn=  2, quality= 50
+  Jour  5 -> sellIn=  1, quality= 50
+  Jour  6 -> sellIn=  0, quality= 50
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=10 | quality=0 ===
+  Jour  0 -> sellIn= 10, quality=  0
+  Jour  1 -> sellIn=  9, quality=  2
+  Jour  2 -> sellIn=  8, quality=  4
+  Jour  3 -> sellIn=  7, quality=  6
+  Jour  4 -> sellIn=  6, quality=  8
+  Jour  5 -> sellIn=  5, quality= 10
+  Jour  6 -> sellIn=  4, quality= 13
+  Jour  7 -> sellIn=  3, quality= 16
+  Jour  8 -> sellIn=  2, quality= 19
+  Jour  9 -> sellIn=  1, quality= 22
+  Jour 10 -> sellIn=  0, quality= 25
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=10 | quality=1 ===
+  Jour  0 -> sellIn= 10, quality=  1
+  Jour  1 -> sellIn=  9, quality=  3
+  Jour  2 -> sellIn=  8, quality=  5
+  Jour  3 -> sellIn=  7, quality=  7
+  Jour  4 -> sellIn=  6, quality=  9
+  Jour  5 -> sellIn=  5, quality= 11
+  Jour  6 -> sellIn=  4, quality= 14
+  Jour  7 -> sellIn=  3, quality= 17
+  Jour  8 -> sellIn=  2, quality= 20
+  Jour  9 -> sellIn=  1, quality= 23
+  Jour 10 -> sellIn=  0, quality= 26
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=10 | quality=2 ===
+  Jour  0 -> sellIn= 10, quality=  2
+  Jour  1 -> sellIn=  9, quality=  4
+  Jour  2 -> sellIn=  8, quality=  6
+  Jour  3 -> sellIn=  7, quality=  8
+  Jour  4 -> sellIn=  6, quality= 10
+  Jour  5 -> sellIn=  5, quality= 12
+  Jour  6 -> sellIn=  4, quality= 15
+  Jour  7 -> sellIn=  3, quality= 18
+  Jour  8 -> sellIn=  2, quality= 21
+  Jour  9 -> sellIn=  1, quality= 24
+  Jour 10 -> sellIn=  0, quality= 27
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=10 | quality=25 ===
+  Jour  0 -> sellIn= 10, quality= 25
+  Jour  1 -> sellIn=  9, quality= 27
+  Jour  2 -> sellIn=  8, quality= 29
+  Jour  3 -> sellIn=  7, quality= 31
+  Jour  4 -> sellIn=  6, quality= 33
+  Jour  5 -> sellIn=  5, quality= 35
+  Jour  6 -> sellIn=  4, quality= 38
+  Jour  7 -> sellIn=  3, quality= 41
+  Jour  8 -> sellIn=  2, quality= 44
+  Jour  9 -> sellIn=  1, quality= 47
+  Jour 10 -> sellIn=  0, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=10 | quality=49 ===
+  Jour  0 -> sellIn= 10, quality= 49
+  Jour  1 -> sellIn=  9, quality= 50
+  Jour  2 -> sellIn=  8, quality= 50
+  Jour  3 -> sellIn=  7, quality= 50
+  Jour  4 -> sellIn=  6, quality= 50
+  Jour  5 -> sellIn=  5, quality= 50
+  Jour  6 -> sellIn=  4, quality= 50
+  Jour  7 -> sellIn=  3, quality= 50
+  Jour  8 -> sellIn=  2, quality= 50
+  Jour  9 -> sellIn=  1, quality= 50
+  Jour 10 -> sellIn=  0, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=10 | quality=50 ===
+  Jour  0 -> sellIn= 10, quality= 50
+  Jour  1 -> sellIn=  9, quality= 50
+  Jour  2 -> sellIn=  8, quality= 50
+  Jour  3 -> sellIn=  7, quality= 50
+  Jour  4 -> sellIn=  6, quality= 50
+  Jour  5 -> sellIn=  5, quality= 50
+  Jour  6 -> sellIn=  4, quality= 50
+  Jour  7 -> sellIn=  3, quality= 50
+  Jour  8 -> sellIn=  2, quality= 50
+  Jour  9 -> sellIn=  1, quality= 50
+  Jour 10 -> sellIn=  0, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=11 | quality=0 ===
+  Jour  0 -> sellIn= 11, quality=  0
+  Jour  1 -> sellIn= 10, quality=  1
+  Jour  2 -> sellIn=  9, quality=  3
+  Jour  3 -> sellIn=  8, quality=  5
+  Jour  4 -> sellIn=  7, quality=  7
+  Jour  5 -> sellIn=  6, quality=  9
+  Jour  6 -> sellIn=  5, quality= 11
+  Jour  7 -> sellIn=  4, quality= 14
+  Jour  8 -> sellIn=  3, quality= 17
+  Jour  9 -> sellIn=  2, quality= 20
+  Jour 10 -> sellIn=  1, quality= 23
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=11 | quality=1 ===
+  Jour  0 -> sellIn= 11, quality=  1
+  Jour  1 -> sellIn= 10, quality=  2
+  Jour  2 -> sellIn=  9, quality=  4
+  Jour  3 -> sellIn=  8, quality=  6
+  Jour  4 -> sellIn=  7, quality=  8
+  Jour  5 -> sellIn=  6, quality= 10
+  Jour  6 -> sellIn=  5, quality= 12
+  Jour  7 -> sellIn=  4, quality= 15
+  Jour  8 -> sellIn=  3, quality= 18
+  Jour  9 -> sellIn=  2, quality= 21
+  Jour 10 -> sellIn=  1, quality= 24
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=11 | quality=2 ===
+  Jour  0 -> sellIn= 11, quality=  2
+  Jour  1 -> sellIn= 10, quality=  3
+  Jour  2 -> sellIn=  9, quality=  5
+  Jour  3 -> sellIn=  8, quality=  7
+  Jour  4 -> sellIn=  7, quality=  9
+  Jour  5 -> sellIn=  6, quality= 11
+  Jour  6 -> sellIn=  5, quality= 13
+  Jour  7 -> sellIn=  4, quality= 16
+  Jour  8 -> sellIn=  3, quality= 19
+  Jour  9 -> sellIn=  2, quality= 22
+  Jour 10 -> sellIn=  1, quality= 25
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=11 | quality=25 ===
+  Jour  0 -> sellIn= 11, quality= 25
+  Jour  1 -> sellIn= 10, quality= 26
+  Jour  2 -> sellIn=  9, quality= 28
+  Jour  3 -> sellIn=  8, quality= 30
+  Jour  4 -> sellIn=  7, quality= 32
+  Jour  5 -> sellIn=  6, quality= 34
+  Jour  6 -> sellIn=  5, quality= 36
+  Jour  7 -> sellIn=  4, quality= 39
+  Jour  8 -> sellIn=  3, quality= 42
+  Jour  9 -> sellIn=  2, quality= 45
+  Jour 10 -> sellIn=  1, quality= 48
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=11 | quality=49 ===
+  Jour  0 -> sellIn= 11, quality= 49
+  Jour  1 -> sellIn= 10, quality= 50
+  Jour  2 -> sellIn=  9, quality= 50
+  Jour  3 -> sellIn=  8, quality= 50
+  Jour  4 -> sellIn=  7, quality= 50
+  Jour  5 -> sellIn=  6, quality= 50
+  Jour  6 -> sellIn=  5, quality= 50
+  Jour  7 -> sellIn=  4, quality= 50
+  Jour  8 -> sellIn=  3, quality= 50
+  Jour  9 -> sellIn=  2, quality= 50
+  Jour 10 -> sellIn=  1, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=11 | quality=50 ===
+  Jour  0 -> sellIn= 11, quality= 50
+  Jour  1 -> sellIn= 10, quality= 50
+  Jour  2 -> sellIn=  9, quality= 50
+  Jour  3 -> sellIn=  8, quality= 50
+  Jour  4 -> sellIn=  7, quality= 50
+  Jour  5 -> sellIn=  6, quality= 50
+  Jour  6 -> sellIn=  5, quality= 50
+  Jour  7 -> sellIn=  4, quality= 50
+  Jour  8 -> sellIn=  3, quality= 50
+  Jour  9 -> sellIn=  2, quality= 50
+  Jour 10 -> sellIn=  1, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=15 | quality=0 ===
+  Jour  0 -> sellIn= 15, quality=  0
+  Jour  1 -> sellIn= 14, quality=  1
+  Jour  2 -> sellIn= 13, quality=  2
+  Jour  3 -> sellIn= 12, quality=  3
+  Jour  4 -> sellIn= 11, quality=  4
+  Jour  5 -> sellIn= 10, quality=  5
+  Jour  6 -> sellIn=  9, quality=  7
+  Jour  7 -> sellIn=  8, quality=  9
+  Jour  8 -> sellIn=  7, quality= 11
+  Jour  9 -> sellIn=  6, quality= 13
+  Jour 10 -> sellIn=  5, quality= 15
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=15 | quality=1 ===
+  Jour  0 -> sellIn= 15, quality=  1
+  Jour  1 -> sellIn= 14, quality=  2
+  Jour  2 -> sellIn= 13, quality=  3
+  Jour  3 -> sellIn= 12, quality=  4
+  Jour  4 -> sellIn= 11, quality=  5
+  Jour  5 -> sellIn= 10, quality=  6
+  Jour  6 -> sellIn=  9, quality=  8
+  Jour  7 -> sellIn=  8, quality= 10
+  Jour  8 -> sellIn=  7, quality= 12
+  Jour  9 -> sellIn=  6, quality= 14
+  Jour 10 -> sellIn=  5, quality= 16
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=15 | quality=2 ===
+  Jour  0 -> sellIn= 15, quality=  2
+  Jour  1 -> sellIn= 14, quality=  3
+  Jour  2 -> sellIn= 13, quality=  4
+  Jour  3 -> sellIn= 12, quality=  5
+  Jour  4 -> sellIn= 11, quality=  6
+  Jour  5 -> sellIn= 10, quality=  7
+  Jour  6 -> sellIn=  9, quality=  9
+  Jour  7 -> sellIn=  8, quality= 11
+  Jour  8 -> sellIn=  7, quality= 13
+  Jour  9 -> sellIn=  6, quality= 15
+  Jour 10 -> sellIn=  5, quality= 17
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=15 | quality=25 ===
+  Jour  0 -> sellIn= 15, quality= 25
+  Jour  1 -> sellIn= 14, quality= 26
+  Jour  2 -> sellIn= 13, quality= 27
+  Jour  3 -> sellIn= 12, quality= 28
+  Jour  4 -> sellIn= 11, quality= 29
+  Jour  5 -> sellIn= 10, quality= 30
+  Jour  6 -> sellIn=  9, quality= 32
+  Jour  7 -> sellIn=  8, quality= 34
+  Jour  8 -> sellIn=  7, quality= 36
+  Jour  9 -> sellIn=  6, quality= 38
+  Jour 10 -> sellIn=  5, quality= 40
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=15 | quality=49 ===
+  Jour  0 -> sellIn= 15, quality= 49
+  Jour  1 -> sellIn= 14, quality= 50
+  Jour  2 -> sellIn= 13, quality= 50
+  Jour  3 -> sellIn= 12, quality= 50
+  Jour  4 -> sellIn= 11, quality= 50
+  Jour  5 -> sellIn= 10, quality= 50
+  Jour  6 -> sellIn=  9, quality= 50
+  Jour  7 -> sellIn=  8, quality= 50
+  Jour  8 -> sellIn=  7, quality= 50
+  Jour  9 -> sellIn=  6, quality= 50
+  Jour 10 -> sellIn=  5, quality= 50
+
+=== Backstage passes to a TAFKAL80ETC concert | sellIn=15 | quality=50 ===
+  Jour  0 -> sellIn= 15, quality= 50
+  Jour  1 -> sellIn= 14, quality= 50
+  Jour  2 -> sellIn= 13, quality= 50
+  Jour  3 -> sellIn= 12, quality= 50
+  Jour  4 -> sellIn= 11, quality= 50
+  Jour  5 -> sellIn= 10, quality= 50
+  Jour  6 -> sellIn=  9, quality= 50
+  Jour  7 -> sellIn=  8, quality= 50
+  Jour  8 -> sellIn=  7, quality= 50
+  Jour  9 -> sellIn=  6, quality= 50
+  Jour 10 -> sellIn=  5, quality= 50
+
+=== Sulfuras, Hand of Ragnaros | sellIn=-1 | quality=80 ===
+  Jour  0 -> sellIn= -1, quality= 80
+  Jour  1 -> sellIn= -1, quality= 80
+  Jour  2 -> sellIn= -1, quality= 80
+  Jour  3 -> sellIn= -1, quality= 80
+  Jour  4 -> sellIn= -1, quality= 80
+  Jour  5 -> sellIn= -1, quality= 80
+  Jour  6 -> sellIn= -1, quality= 80
+  Jour  7 -> sellIn= -1, quality= 80
+  Jour  8 -> sellIn= -1, quality= 80
+  Jour  9 -> sellIn= -1, quality= 80
+  Jour 10 -> sellIn= -1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=-1 | quality=80 ===
+  Jour  0 -> sellIn= -1, quality= 80
+  Jour  1 -> sellIn= -1, quality= 80
+  Jour  2 -> sellIn= -1, quality= 80
+  Jour  3 -> sellIn= -1, quality= 80
+  Jour  4 -> sellIn= -1, quality= 80
+  Jour  5 -> sellIn= -1, quality= 80
+  Jour  6 -> sellIn= -1, quality= 80
+  Jour  7 -> sellIn= -1, quality= 80
+  Jour  8 -> sellIn= -1, quality= 80
+  Jour  9 -> sellIn= -1, quality= 80
+  Jour 10 -> sellIn= -1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=-1 | quality=80 ===
+  Jour  0 -> sellIn= -1, quality= 80
+  Jour  1 -> sellIn= -1, quality= 80
+  Jour  2 -> sellIn= -1, quality= 80
+  Jour  3 -> sellIn= -1, quality= 80
+  Jour  4 -> sellIn= -1, quality= 80
+  Jour  5 -> sellIn= -1, quality= 80
+  Jour  6 -> sellIn= -1, quality= 80
+  Jour  7 -> sellIn= -1, quality= 80
+  Jour  8 -> sellIn= -1, quality= 80
+  Jour  9 -> sellIn= -1, quality= 80
+  Jour 10 -> sellIn= -1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=-1 | quality=80 ===
+  Jour  0 -> sellIn= -1, quality= 80
+  Jour  1 -> sellIn= -1, quality= 80
+  Jour  2 -> sellIn= -1, quality= 80
+  Jour  3 -> sellIn= -1, quality= 80
+  Jour  4 -> sellIn= -1, quality= 80
+  Jour  5 -> sellIn= -1, quality= 80
+  Jour  6 -> sellIn= -1, quality= 80
+  Jour  7 -> sellIn= -1, quality= 80
+  Jour  8 -> sellIn= -1, quality= 80
+  Jour  9 -> sellIn= -1, quality= 80
+  Jour 10 -> sellIn= -1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=-1 | quality=80 ===
+  Jour  0 -> sellIn= -1, quality= 80
+  Jour  1 -> sellIn= -1, quality= 80
+  Jour  2 -> sellIn= -1, quality= 80
+  Jour  3 -> sellIn= -1, quality= 80
+  Jour  4 -> sellIn= -1, quality= 80
+  Jour  5 -> sellIn= -1, quality= 80
+  Jour  6 -> sellIn= -1, quality= 80
+  Jour  7 -> sellIn= -1, quality= 80
+  Jour  8 -> sellIn= -1, quality= 80
+  Jour  9 -> sellIn= -1, quality= 80
+  Jour 10 -> sellIn= -1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=-1 | quality=80 ===
+  Jour  0 -> sellIn= -1, quality= 80
+  Jour  1 -> sellIn= -1, quality= 80
+  Jour  2 -> sellIn= -1, quality= 80
+  Jour  3 -> sellIn= -1, quality= 80
+  Jour  4 -> sellIn= -1, quality= 80
+  Jour  5 -> sellIn= -1, quality= 80
+  Jour  6 -> sellIn= -1, quality= 80
+  Jour  7 -> sellIn= -1, quality= 80
+  Jour  8 -> sellIn= -1, quality= 80
+  Jour  9 -> sellIn= -1, quality= 80
+  Jour 10 -> sellIn= -1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=0 | quality=80 ===
+  Jour  0 -> sellIn=  0, quality= 80
+  Jour  1 -> sellIn=  0, quality= 80
+  Jour  2 -> sellIn=  0, quality= 80
+  Jour  3 -> sellIn=  0, quality= 80
+  Jour  4 -> sellIn=  0, quality= 80
+  Jour  5 -> sellIn=  0, quality= 80
+  Jour  6 -> sellIn=  0, quality= 80
+  Jour  7 -> sellIn=  0, quality= 80
+  Jour  8 -> sellIn=  0, quality= 80
+  Jour  9 -> sellIn=  0, quality= 80
+  Jour 10 -> sellIn=  0, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=0 | quality=80 ===
+  Jour  0 -> sellIn=  0, quality= 80
+  Jour  1 -> sellIn=  0, quality= 80
+  Jour  2 -> sellIn=  0, quality= 80
+  Jour  3 -> sellIn=  0, quality= 80
+  Jour  4 -> sellIn=  0, quality= 80
+  Jour  5 -> sellIn=  0, quality= 80
+  Jour  6 -> sellIn=  0, quality= 80
+  Jour  7 -> sellIn=  0, quality= 80
+  Jour  8 -> sellIn=  0, quality= 80
+  Jour  9 -> sellIn=  0, quality= 80
+  Jour 10 -> sellIn=  0, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=0 | quality=80 ===
+  Jour  0 -> sellIn=  0, quality= 80
+  Jour  1 -> sellIn=  0, quality= 80
+  Jour  2 -> sellIn=  0, quality= 80
+  Jour  3 -> sellIn=  0, quality= 80
+  Jour  4 -> sellIn=  0, quality= 80
+  Jour  5 -> sellIn=  0, quality= 80
+  Jour  6 -> sellIn=  0, quality= 80
+  Jour  7 -> sellIn=  0, quality= 80
+  Jour  8 -> sellIn=  0, quality= 80
+  Jour  9 -> sellIn=  0, quality= 80
+  Jour 10 -> sellIn=  0, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=0 | quality=80 ===
+  Jour  0 -> sellIn=  0, quality= 80
+  Jour  1 -> sellIn=  0, quality= 80
+  Jour  2 -> sellIn=  0, quality= 80
+  Jour  3 -> sellIn=  0, quality= 80
+  Jour  4 -> sellIn=  0, quality= 80
+  Jour  5 -> sellIn=  0, quality= 80
+  Jour  6 -> sellIn=  0, quality= 80
+  Jour  7 -> sellIn=  0, quality= 80
+  Jour  8 -> sellIn=  0, quality= 80
+  Jour  9 -> sellIn=  0, quality= 80
+  Jour 10 -> sellIn=  0, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=0 | quality=80 ===
+  Jour  0 -> sellIn=  0, quality= 80
+  Jour  1 -> sellIn=  0, quality= 80
+  Jour  2 -> sellIn=  0, quality= 80
+  Jour  3 -> sellIn=  0, quality= 80
+  Jour  4 -> sellIn=  0, quality= 80
+  Jour  5 -> sellIn=  0, quality= 80
+  Jour  6 -> sellIn=  0, quality= 80
+  Jour  7 -> sellIn=  0, quality= 80
+  Jour  8 -> sellIn=  0, quality= 80
+  Jour  9 -> sellIn=  0, quality= 80
+  Jour 10 -> sellIn=  0, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=0 | quality=80 ===
+  Jour  0 -> sellIn=  0, quality= 80
+  Jour  1 -> sellIn=  0, quality= 80
+  Jour  2 -> sellIn=  0, quality= 80
+  Jour  3 -> sellIn=  0, quality= 80
+  Jour  4 -> sellIn=  0, quality= 80
+  Jour  5 -> sellIn=  0, quality= 80
+  Jour  6 -> sellIn=  0, quality= 80
+  Jour  7 -> sellIn=  0, quality= 80
+  Jour  8 -> sellIn=  0, quality= 80
+  Jour  9 -> sellIn=  0, quality= 80
+  Jour 10 -> sellIn=  0, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=1 | quality=80 ===
+  Jour  0 -> sellIn=  1, quality= 80
+  Jour  1 -> sellIn=  1, quality= 80
+  Jour  2 -> sellIn=  1, quality= 80
+  Jour  3 -> sellIn=  1, quality= 80
+  Jour  4 -> sellIn=  1, quality= 80
+  Jour  5 -> sellIn=  1, quality= 80
+  Jour  6 -> sellIn=  1, quality= 80
+  Jour  7 -> sellIn=  1, quality= 80
+  Jour  8 -> sellIn=  1, quality= 80
+  Jour  9 -> sellIn=  1, quality= 80
+  Jour 10 -> sellIn=  1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=1 | quality=80 ===
+  Jour  0 -> sellIn=  1, quality= 80
+  Jour  1 -> sellIn=  1, quality= 80
+  Jour  2 -> sellIn=  1, quality= 80
+  Jour  3 -> sellIn=  1, quality= 80
+  Jour  4 -> sellIn=  1, quality= 80
+  Jour  5 -> sellIn=  1, quality= 80
+  Jour  6 -> sellIn=  1, quality= 80
+  Jour  7 -> sellIn=  1, quality= 80
+  Jour  8 -> sellIn=  1, quality= 80
+  Jour  9 -> sellIn=  1, quality= 80
+  Jour 10 -> sellIn=  1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=1 | quality=80 ===
+  Jour  0 -> sellIn=  1, quality= 80
+  Jour  1 -> sellIn=  1, quality= 80
+  Jour  2 -> sellIn=  1, quality= 80
+  Jour  3 -> sellIn=  1, quality= 80
+  Jour  4 -> sellIn=  1, quality= 80
+  Jour  5 -> sellIn=  1, quality= 80
+  Jour  6 -> sellIn=  1, quality= 80
+  Jour  7 -> sellIn=  1, quality= 80
+  Jour  8 -> sellIn=  1, quality= 80
+  Jour  9 -> sellIn=  1, quality= 80
+  Jour 10 -> sellIn=  1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=1 | quality=80 ===
+  Jour  0 -> sellIn=  1, quality= 80
+  Jour  1 -> sellIn=  1, quality= 80
+  Jour  2 -> sellIn=  1, quality= 80
+  Jour  3 -> sellIn=  1, quality= 80
+  Jour  4 -> sellIn=  1, quality= 80
+  Jour  5 -> sellIn=  1, quality= 80
+  Jour  6 -> sellIn=  1, quality= 80
+  Jour  7 -> sellIn=  1, quality= 80
+  Jour  8 -> sellIn=  1, quality= 80
+  Jour  9 -> sellIn=  1, quality= 80
+  Jour 10 -> sellIn=  1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=1 | quality=80 ===
+  Jour  0 -> sellIn=  1, quality= 80
+  Jour  1 -> sellIn=  1, quality= 80
+  Jour  2 -> sellIn=  1, quality= 80
+  Jour  3 -> sellIn=  1, quality= 80
+  Jour  4 -> sellIn=  1, quality= 80
+  Jour  5 -> sellIn=  1, quality= 80
+  Jour  6 -> sellIn=  1, quality= 80
+  Jour  7 -> sellIn=  1, quality= 80
+  Jour  8 -> sellIn=  1, quality= 80
+  Jour  9 -> sellIn=  1, quality= 80
+  Jour 10 -> sellIn=  1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=1 | quality=80 ===
+  Jour  0 -> sellIn=  1, quality= 80
+  Jour  1 -> sellIn=  1, quality= 80
+  Jour  2 -> sellIn=  1, quality= 80
+  Jour  3 -> sellIn=  1, quality= 80
+  Jour  4 -> sellIn=  1, quality= 80
+  Jour  5 -> sellIn=  1, quality= 80
+  Jour  6 -> sellIn=  1, quality= 80
+  Jour  7 -> sellIn=  1, quality= 80
+  Jour  8 -> sellIn=  1, quality= 80
+  Jour  9 -> sellIn=  1, quality= 80
+  Jour 10 -> sellIn=  1, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=5 | quality=80 ===
+  Jour  0 -> sellIn=  5, quality= 80
+  Jour  1 -> sellIn=  5, quality= 80
+  Jour  2 -> sellIn=  5, quality= 80
+  Jour  3 -> sellIn=  5, quality= 80
+  Jour  4 -> sellIn=  5, quality= 80
+  Jour  5 -> sellIn=  5, quality= 80
+  Jour  6 -> sellIn=  5, quality= 80
+  Jour  7 -> sellIn=  5, quality= 80
+  Jour  8 -> sellIn=  5, quality= 80
+  Jour  9 -> sellIn=  5, quality= 80
+  Jour 10 -> sellIn=  5, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=5 | quality=80 ===
+  Jour  0 -> sellIn=  5, quality= 80
+  Jour  1 -> sellIn=  5, quality= 80
+  Jour  2 -> sellIn=  5, quality= 80
+  Jour  3 -> sellIn=  5, quality= 80
+  Jour  4 -> sellIn=  5, quality= 80
+  Jour  5 -> sellIn=  5, quality= 80
+  Jour  6 -> sellIn=  5, quality= 80
+  Jour  7 -> sellIn=  5, quality= 80
+  Jour  8 -> sellIn=  5, quality= 80
+  Jour  9 -> sellIn=  5, quality= 80
+  Jour 10 -> sellIn=  5, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=5 | quality=80 ===
+  Jour  0 -> sellIn=  5, quality= 80
+  Jour  1 -> sellIn=  5, quality= 80
+  Jour  2 -> sellIn=  5, quality= 80
+  Jour  3 -> sellIn=  5, quality= 80
+  Jour  4 -> sellIn=  5, quality= 80
+  Jour  5 -> sellIn=  5, quality= 80
+  Jour  6 -> sellIn=  5, quality= 80
+  Jour  7 -> sellIn=  5, quality= 80
+  Jour  8 -> sellIn=  5, quality= 80
+  Jour  9 -> sellIn=  5, quality= 80
+  Jour 10 -> sellIn=  5, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=5 | quality=80 ===
+  Jour  0 -> sellIn=  5, quality= 80
+  Jour  1 -> sellIn=  5, quality= 80
+  Jour  2 -> sellIn=  5, quality= 80
+  Jour  3 -> sellIn=  5, quality= 80
+  Jour  4 -> sellIn=  5, quality= 80
+  Jour  5 -> sellIn=  5, quality= 80
+  Jour  6 -> sellIn=  5, quality= 80
+  Jour  7 -> sellIn=  5, quality= 80
+  Jour  8 -> sellIn=  5, quality= 80
+  Jour  9 -> sellIn=  5, quality= 80
+  Jour 10 -> sellIn=  5, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=5 | quality=80 ===
+  Jour  0 -> sellIn=  5, quality= 80
+  Jour  1 -> sellIn=  5, quality= 80
+  Jour  2 -> sellIn=  5, quality= 80
+  Jour  3 -> sellIn=  5, quality= 80
+  Jour  4 -> sellIn=  5, quality= 80
+  Jour  5 -> sellIn=  5, quality= 80
+  Jour  6 -> sellIn=  5, quality= 80
+  Jour  7 -> sellIn=  5, quality= 80
+  Jour  8 -> sellIn=  5, quality= 80
+  Jour  9 -> sellIn=  5, quality= 80
+  Jour 10 -> sellIn=  5, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=5 | quality=80 ===
+  Jour  0 -> sellIn=  5, quality= 80
+  Jour  1 -> sellIn=  5, quality= 80
+  Jour  2 -> sellIn=  5, quality= 80
+  Jour  3 -> sellIn=  5, quality= 80
+  Jour  4 -> sellIn=  5, quality= 80
+  Jour  5 -> sellIn=  5, quality= 80
+  Jour  6 -> sellIn=  5, quality= 80
+  Jour  7 -> sellIn=  5, quality= 80
+  Jour  8 -> sellIn=  5, quality= 80
+  Jour  9 -> sellIn=  5, quality= 80
+  Jour 10 -> sellIn=  5, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=6 | quality=80 ===
+  Jour  0 -> sellIn=  6, quality= 80
+  Jour  1 -> sellIn=  6, quality= 80
+  Jour  2 -> sellIn=  6, quality= 80
+  Jour  3 -> sellIn=  6, quality= 80
+  Jour  4 -> sellIn=  6, quality= 80
+  Jour  5 -> sellIn=  6, quality= 80
+  Jour  6 -> sellIn=  6, quality= 80
+  Jour  7 -> sellIn=  6, quality= 80
+  Jour  8 -> sellIn=  6, quality= 80
+  Jour  9 -> sellIn=  6, quality= 80
+  Jour 10 -> sellIn=  6, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=6 | quality=80 ===
+  Jour  0 -> sellIn=  6, quality= 80
+  Jour  1 -> sellIn=  6, quality= 80
+  Jour  2 -> sellIn=  6, quality= 80
+  Jour  3 -> sellIn=  6, quality= 80
+  Jour  4 -> sellIn=  6, quality= 80
+  Jour  5 -> sellIn=  6, quality= 80
+  Jour  6 -> sellIn=  6, quality= 80
+  Jour  7 -> sellIn=  6, quality= 80
+  Jour  8 -> sellIn=  6, quality= 80
+  Jour  9 -> sellIn=  6, quality= 80
+  Jour 10 -> sellIn=  6, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=6 | quality=80 ===
+  Jour  0 -> sellIn=  6, quality= 80
+  Jour  1 -> sellIn=  6, quality= 80
+  Jour  2 -> sellIn=  6, quality= 80
+  Jour  3 -> sellIn=  6, quality= 80
+  Jour  4 -> sellIn=  6, quality= 80
+  Jour  5 -> sellIn=  6, quality= 80
+  Jour  6 -> sellIn=  6, quality= 80
+  Jour  7 -> sellIn=  6, quality= 80
+  Jour  8 -> sellIn=  6, quality= 80
+  Jour  9 -> sellIn=  6, quality= 80
+  Jour 10 -> sellIn=  6, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=6 | quality=80 ===
+  Jour  0 -> sellIn=  6, quality= 80
+  Jour  1 -> sellIn=  6, quality= 80
+  Jour  2 -> sellIn=  6, quality= 80
+  Jour  3 -> sellIn=  6, quality= 80
+  Jour  4 -> sellIn=  6, quality= 80
+  Jour  5 -> sellIn=  6, quality= 80
+  Jour  6 -> sellIn=  6, quality= 80
+  Jour  7 -> sellIn=  6, quality= 80
+  Jour  8 -> sellIn=  6, quality= 80
+  Jour  9 -> sellIn=  6, quality= 80
+  Jour 10 -> sellIn=  6, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=6 | quality=80 ===
+  Jour  0 -> sellIn=  6, quality= 80
+  Jour  1 -> sellIn=  6, quality= 80
+  Jour  2 -> sellIn=  6, quality= 80
+  Jour  3 -> sellIn=  6, quality= 80
+  Jour  4 -> sellIn=  6, quality= 80
+  Jour  5 -> sellIn=  6, quality= 80
+  Jour  6 -> sellIn=  6, quality= 80
+  Jour  7 -> sellIn=  6, quality= 80
+  Jour  8 -> sellIn=  6, quality= 80
+  Jour  9 -> sellIn=  6, quality= 80
+  Jour 10 -> sellIn=  6, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=6 | quality=80 ===
+  Jour  0 -> sellIn=  6, quality= 80
+  Jour  1 -> sellIn=  6, quality= 80
+  Jour  2 -> sellIn=  6, quality= 80
+  Jour  3 -> sellIn=  6, quality= 80
+  Jour  4 -> sellIn=  6, quality= 80
+  Jour  5 -> sellIn=  6, quality= 80
+  Jour  6 -> sellIn=  6, quality= 80
+  Jour  7 -> sellIn=  6, quality= 80
+  Jour  8 -> sellIn=  6, quality= 80
+  Jour  9 -> sellIn=  6, quality= 80
+  Jour 10 -> sellIn=  6, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=10 | quality=80 ===
+  Jour  0 -> sellIn= 10, quality= 80
+  Jour  1 -> sellIn= 10, quality= 80
+  Jour  2 -> sellIn= 10, quality= 80
+  Jour  3 -> sellIn= 10, quality= 80
+  Jour  4 -> sellIn= 10, quality= 80
+  Jour  5 -> sellIn= 10, quality= 80
+  Jour  6 -> sellIn= 10, quality= 80
+  Jour  7 -> sellIn= 10, quality= 80
+  Jour  8 -> sellIn= 10, quality= 80
+  Jour  9 -> sellIn= 10, quality= 80
+  Jour 10 -> sellIn= 10, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=10 | quality=80 ===
+  Jour  0 -> sellIn= 10, quality= 80
+  Jour  1 -> sellIn= 10, quality= 80
+  Jour  2 -> sellIn= 10, quality= 80
+  Jour  3 -> sellIn= 10, quality= 80
+  Jour  4 -> sellIn= 10, quality= 80
+  Jour  5 -> sellIn= 10, quality= 80
+  Jour  6 -> sellIn= 10, quality= 80
+  Jour  7 -> sellIn= 10, quality= 80
+  Jour  8 -> sellIn= 10, quality= 80
+  Jour  9 -> sellIn= 10, quality= 80
+  Jour 10 -> sellIn= 10, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=10 | quality=80 ===
+  Jour  0 -> sellIn= 10, quality= 80
+  Jour  1 -> sellIn= 10, quality= 80
+  Jour  2 -> sellIn= 10, quality= 80
+  Jour  3 -> sellIn= 10, quality= 80
+  Jour  4 -> sellIn= 10, quality= 80
+  Jour  5 -> sellIn= 10, quality= 80
+  Jour  6 -> sellIn= 10, quality= 80
+  Jour  7 -> sellIn= 10, quality= 80
+  Jour  8 -> sellIn= 10, quality= 80
+  Jour  9 -> sellIn= 10, quality= 80
+  Jour 10 -> sellIn= 10, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=10 | quality=80 ===
+  Jour  0 -> sellIn= 10, quality= 80
+  Jour  1 -> sellIn= 10, quality= 80
+  Jour  2 -> sellIn= 10, quality= 80
+  Jour  3 -> sellIn= 10, quality= 80
+  Jour  4 -> sellIn= 10, quality= 80
+  Jour  5 -> sellIn= 10, quality= 80
+  Jour  6 -> sellIn= 10, quality= 80
+  Jour  7 -> sellIn= 10, quality= 80
+  Jour  8 -> sellIn= 10, quality= 80
+  Jour  9 -> sellIn= 10, quality= 80
+  Jour 10 -> sellIn= 10, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=10 | quality=80 ===
+  Jour  0 -> sellIn= 10, quality= 80
+  Jour  1 -> sellIn= 10, quality= 80
+  Jour  2 -> sellIn= 10, quality= 80
+  Jour  3 -> sellIn= 10, quality= 80
+  Jour  4 -> sellIn= 10, quality= 80
+  Jour  5 -> sellIn= 10, quality= 80
+  Jour  6 -> sellIn= 10, quality= 80
+  Jour  7 -> sellIn= 10, quality= 80
+  Jour  8 -> sellIn= 10, quality= 80
+  Jour  9 -> sellIn= 10, quality= 80
+  Jour 10 -> sellIn= 10, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=10 | quality=80 ===
+  Jour  0 -> sellIn= 10, quality= 80
+  Jour  1 -> sellIn= 10, quality= 80
+  Jour  2 -> sellIn= 10, quality= 80
+  Jour  3 -> sellIn= 10, quality= 80
+  Jour  4 -> sellIn= 10, quality= 80
+  Jour  5 -> sellIn= 10, quality= 80
+  Jour  6 -> sellIn= 10, quality= 80
+  Jour  7 -> sellIn= 10, quality= 80
+  Jour  8 -> sellIn= 10, quality= 80
+  Jour  9 -> sellIn= 10, quality= 80
+  Jour 10 -> sellIn= 10, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=11 | quality=80 ===
+  Jour  0 -> sellIn= 11, quality= 80
+  Jour  1 -> sellIn= 11, quality= 80
+  Jour  2 -> sellIn= 11, quality= 80
+  Jour  3 -> sellIn= 11, quality= 80
+  Jour  4 -> sellIn= 11, quality= 80
+  Jour  5 -> sellIn= 11, quality= 80
+  Jour  6 -> sellIn= 11, quality= 80
+  Jour  7 -> sellIn= 11, quality= 80
+  Jour  8 -> sellIn= 11, quality= 80
+  Jour  9 -> sellIn= 11, quality= 80
+  Jour 10 -> sellIn= 11, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=11 | quality=80 ===
+  Jour  0 -> sellIn= 11, quality= 80
+  Jour  1 -> sellIn= 11, quality= 80
+  Jour  2 -> sellIn= 11, quality= 80
+  Jour  3 -> sellIn= 11, quality= 80
+  Jour  4 -> sellIn= 11, quality= 80
+  Jour  5 -> sellIn= 11, quality= 80
+  Jour  6 -> sellIn= 11, quality= 80
+  Jour  7 -> sellIn= 11, quality= 80
+  Jour  8 -> sellIn= 11, quality= 80
+  Jour  9 -> sellIn= 11, quality= 80
+  Jour 10 -> sellIn= 11, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=11 | quality=80 ===
+  Jour  0 -> sellIn= 11, quality= 80
+  Jour  1 -> sellIn= 11, quality= 80
+  Jour  2 -> sellIn= 11, quality= 80
+  Jour  3 -> sellIn= 11, quality= 80
+  Jour  4 -> sellIn= 11, quality= 80
+  Jour  5 -> sellIn= 11, quality= 80
+  Jour  6 -> sellIn= 11, quality= 80
+  Jour  7 -> sellIn= 11, quality= 80
+  Jour  8 -> sellIn= 11, quality= 80
+  Jour  9 -> sellIn= 11, quality= 80
+  Jour 10 -> sellIn= 11, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=11 | quality=80 ===
+  Jour  0 -> sellIn= 11, quality= 80
+  Jour  1 -> sellIn= 11, quality= 80
+  Jour  2 -> sellIn= 11, quality= 80
+  Jour  3 -> sellIn= 11, quality= 80
+  Jour  4 -> sellIn= 11, quality= 80
+  Jour  5 -> sellIn= 11, quality= 80
+  Jour  6 -> sellIn= 11, quality= 80
+  Jour  7 -> sellIn= 11, quality= 80
+  Jour  8 -> sellIn= 11, quality= 80
+  Jour  9 -> sellIn= 11, quality= 80
+  Jour 10 -> sellIn= 11, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=11 | quality=80 ===
+  Jour  0 -> sellIn= 11, quality= 80
+  Jour  1 -> sellIn= 11, quality= 80
+  Jour  2 -> sellIn= 11, quality= 80
+  Jour  3 -> sellIn= 11, quality= 80
+  Jour  4 -> sellIn= 11, quality= 80
+  Jour  5 -> sellIn= 11, quality= 80
+  Jour  6 -> sellIn= 11, quality= 80
+  Jour  7 -> sellIn= 11, quality= 80
+  Jour  8 -> sellIn= 11, quality= 80
+  Jour  9 -> sellIn= 11, quality= 80
+  Jour 10 -> sellIn= 11, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=11 | quality=80 ===
+  Jour  0 -> sellIn= 11, quality= 80
+  Jour  1 -> sellIn= 11, quality= 80
+  Jour  2 -> sellIn= 11, quality= 80
+  Jour  3 -> sellIn= 11, quality= 80
+  Jour  4 -> sellIn= 11, quality= 80
+  Jour  5 -> sellIn= 11, quality= 80
+  Jour  6 -> sellIn= 11, quality= 80
+  Jour  7 -> sellIn= 11, quality= 80
+  Jour  8 -> sellIn= 11, quality= 80
+  Jour  9 -> sellIn= 11, quality= 80
+  Jour 10 -> sellIn= 11, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=15 | quality=80 ===
+  Jour  0 -> sellIn= 15, quality= 80
+  Jour  1 -> sellIn= 15, quality= 80
+  Jour  2 -> sellIn= 15, quality= 80
+  Jour  3 -> sellIn= 15, quality= 80
+  Jour  4 -> sellIn= 15, quality= 80
+  Jour  5 -> sellIn= 15, quality= 80
+  Jour  6 -> sellIn= 15, quality= 80
+  Jour  7 -> sellIn= 15, quality= 80
+  Jour  8 -> sellIn= 15, quality= 80
+  Jour  9 -> sellIn= 15, quality= 80
+  Jour 10 -> sellIn= 15, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=15 | quality=80 ===
+  Jour  0 -> sellIn= 15, quality= 80
+  Jour  1 -> sellIn= 15, quality= 80
+  Jour  2 -> sellIn= 15, quality= 80
+  Jour  3 -> sellIn= 15, quality= 80
+  Jour  4 -> sellIn= 15, quality= 80
+  Jour  5 -> sellIn= 15, quality= 80
+  Jour  6 -> sellIn= 15, quality= 80
+  Jour  7 -> sellIn= 15, quality= 80
+  Jour  8 -> sellIn= 15, quality= 80
+  Jour  9 -> sellIn= 15, quality= 80
+  Jour 10 -> sellIn= 15, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=15 | quality=80 ===
+  Jour  0 -> sellIn= 15, quality= 80
+  Jour  1 -> sellIn= 15, quality= 80
+  Jour  2 -> sellIn= 15, quality= 80
+  Jour  3 -> sellIn= 15, quality= 80
+  Jour  4 -> sellIn= 15, quality= 80
+  Jour  5 -> sellIn= 15, quality= 80
+  Jour  6 -> sellIn= 15, quality= 80
+  Jour  7 -> sellIn= 15, quality= 80
+  Jour  8 -> sellIn= 15, quality= 80
+  Jour  9 -> sellIn= 15, quality= 80
+  Jour 10 -> sellIn= 15, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=15 | quality=80 ===
+  Jour  0 -> sellIn= 15, quality= 80
+  Jour  1 -> sellIn= 15, quality= 80
+  Jour  2 -> sellIn= 15, quality= 80
+  Jour  3 -> sellIn= 15, quality= 80
+  Jour  4 -> sellIn= 15, quality= 80
+  Jour  5 -> sellIn= 15, quality= 80
+  Jour  6 -> sellIn= 15, quality= 80
+  Jour  7 -> sellIn= 15, quality= 80
+  Jour  8 -> sellIn= 15, quality= 80
+  Jour  9 -> sellIn= 15, quality= 80
+  Jour 10 -> sellIn= 15, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=15 | quality=80 ===
+  Jour  0 -> sellIn= 15, quality= 80
+  Jour  1 -> sellIn= 15, quality= 80
+  Jour  2 -> sellIn= 15, quality= 80
+  Jour  3 -> sellIn= 15, quality= 80
+  Jour  4 -> sellIn= 15, quality= 80
+  Jour  5 -> sellIn= 15, quality= 80
+  Jour  6 -> sellIn= 15, quality= 80
+  Jour  7 -> sellIn= 15, quality= 80
+  Jour  8 -> sellIn= 15, quality= 80
+  Jour  9 -> sellIn= 15, quality= 80
+  Jour 10 -> sellIn= 15, quality= 80
+
+=== Sulfuras, Hand of Ragnaros | sellIn=15 | quality=80 ===
+  Jour  0 -> sellIn= 15, quality= 80
+  Jour  1 -> sellIn= 15, quality= 80
+  Jour  2 -> sellIn= 15, quality= 80
+  Jour  3 -> sellIn= 15, quality= 80
+  Jour  4 -> sellIn= 15, quality= 80
+  Jour  5 -> sellIn= 15, quality= 80
+  Jour  6 -> sellIn= 15, quality= 80
+  Jour  7 -> sellIn= 15, quality= 80
+  Jour  8 -> sellIn= 15, quality= 80
+  Jour  9 -> sellIn= 15, quality= 80
+  Jour 10 -> sellIn= 15, quality= 80
+
+=== Conjured Mana Cake | sellIn=-1 | quality=0 ===
+  Jour  0 -> sellIn= -1, quality=  0
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Conjured Mana Cake | sellIn=-1 | quality=1 ===
+  Jour  0 -> sellIn= -1, quality=  1
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Conjured Mana Cake | sellIn=-1 | quality=2 ===
+  Jour  0 -> sellIn= -1, quality=  2
+  Jour  1 -> sellIn= -2, quality=  0
+  Jour  2 -> sellIn= -3, quality=  0
+  Jour  3 -> sellIn= -4, quality=  0
+  Jour  4 -> sellIn= -5, quality=  0
+  Jour  5 -> sellIn= -6, quality=  0
+  Jour  6 -> sellIn= -7, quality=  0
+  Jour  7 -> sellIn= -8, quality=  0
+  Jour  8 -> sellIn= -9, quality=  0
+  Jour  9 -> sellIn=-10, quality=  0
+  Jour 10 -> sellIn=-11, quality=  0
+
+=== Conjured Mana Cake | sellIn=-1 | quality=25 ===
+  Jour  0 -> sellIn= -1, quality= 25
+  Jour  1 -> sellIn= -2, quality= 23
+  Jour  2 -> sellIn= -3, quality= 21
+  Jour  3 -> sellIn= -4, quality= 19
+  Jour  4 -> sellIn= -5, quality= 17
+  Jour  5 -> sellIn= -6, quality= 15
+  Jour  6 -> sellIn= -7, quality= 13
+  Jour  7 -> sellIn= -8, quality= 11
+  Jour  8 -> sellIn= -9, quality=  9
+  Jour  9 -> sellIn=-10, quality=  7
+  Jour 10 -> sellIn=-11, quality=  5
+
+=== Conjured Mana Cake | sellIn=-1 | quality=49 ===
+  Jour  0 -> sellIn= -1, quality= 49
+  Jour  1 -> sellIn= -2, quality= 47
+  Jour  2 -> sellIn= -3, quality= 45
+  Jour  3 -> sellIn= -4, quality= 43
+  Jour  4 -> sellIn= -5, quality= 41
+  Jour  5 -> sellIn= -6, quality= 39
+  Jour  6 -> sellIn= -7, quality= 37
+  Jour  7 -> sellIn= -8, quality= 35
+  Jour  8 -> sellIn= -9, quality= 33
+  Jour  9 -> sellIn=-10, quality= 31
+  Jour 10 -> sellIn=-11, quality= 29
+
+=== Conjured Mana Cake | sellIn=-1 | quality=50 ===
+  Jour  0 -> sellIn= -1, quality= 50
+  Jour  1 -> sellIn= -2, quality= 48
+  Jour  2 -> sellIn= -3, quality= 46
+  Jour  3 -> sellIn= -4, quality= 44
+  Jour  4 -> sellIn= -5, quality= 42
+  Jour  5 -> sellIn= -6, quality= 40
+  Jour  6 -> sellIn= -7, quality= 38
+  Jour  7 -> sellIn= -8, quality= 36
+  Jour  8 -> sellIn= -9, quality= 34
+  Jour  9 -> sellIn=-10, quality= 32
+  Jour 10 -> sellIn=-11, quality= 30
+
+=== Conjured Mana Cake | sellIn=0 | quality=0 ===
+  Jour  0 -> sellIn=  0, quality=  0
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Conjured Mana Cake | sellIn=0 | quality=1 ===
+  Jour  0 -> sellIn=  0, quality=  1
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Conjured Mana Cake | sellIn=0 | quality=2 ===
+  Jour  0 -> sellIn=  0, quality=  2
+  Jour  1 -> sellIn= -1, quality=  0
+  Jour  2 -> sellIn= -2, quality=  0
+  Jour  3 -> sellIn= -3, quality=  0
+  Jour  4 -> sellIn= -4, quality=  0
+  Jour  5 -> sellIn= -5, quality=  0
+  Jour  6 -> sellIn= -6, quality=  0
+  Jour  7 -> sellIn= -7, quality=  0
+  Jour  8 -> sellIn= -8, quality=  0
+  Jour  9 -> sellIn= -9, quality=  0
+  Jour 10 -> sellIn=-10, quality=  0
+
+=== Conjured Mana Cake | sellIn=0 | quality=25 ===
+  Jour  0 -> sellIn=  0, quality= 25
+  Jour  1 -> sellIn= -1, quality= 23
+  Jour  2 -> sellIn= -2, quality= 21
+  Jour  3 -> sellIn= -3, quality= 19
+  Jour  4 -> sellIn= -4, quality= 17
+  Jour  5 -> sellIn= -5, quality= 15
+  Jour  6 -> sellIn= -6, quality= 13
+  Jour  7 -> sellIn= -7, quality= 11
+  Jour  8 -> sellIn= -8, quality=  9
+  Jour  9 -> sellIn= -9, quality=  7
+  Jour 10 -> sellIn=-10, quality=  5
+
+=== Conjured Mana Cake | sellIn=0 | quality=49 ===
+  Jour  0 -> sellIn=  0, quality= 49
+  Jour  1 -> sellIn= -1, quality= 47
+  Jour  2 -> sellIn= -2, quality= 45
+  Jour  3 -> sellIn= -3, quality= 43
+  Jour  4 -> sellIn= -4, quality= 41
+  Jour  5 -> sellIn= -5, quality= 39
+  Jour  6 -> sellIn= -6, quality= 37
+  Jour  7 -> sellIn= -7, quality= 35
+  Jour  8 -> sellIn= -8, quality= 33
+  Jour  9 -> sellIn= -9, quality= 31
+  Jour 10 -> sellIn=-10, quality= 29
+
+=== Conjured Mana Cake | sellIn=0 | quality=50 ===
+  Jour  0 -> sellIn=  0, quality= 50
+  Jour  1 -> sellIn= -1, quality= 48
+  Jour  2 -> sellIn= -2, quality= 46
+  Jour  3 -> sellIn= -3, quality= 44
+  Jour  4 -> sellIn= -4, quality= 42
+  Jour  5 -> sellIn= -5, quality= 40
+  Jour  6 -> sellIn= -6, quality= 38
+  Jour  7 -> sellIn= -7, quality= 36
+  Jour  8 -> sellIn= -8, quality= 34
+  Jour  9 -> sellIn= -9, quality= 32
+  Jour 10 -> sellIn=-10, quality= 30
+
+=== Conjured Mana Cake | sellIn=1 | quality=0 ===
+  Jour  0 -> sellIn=  1, quality=  0
+  Jour  1 -> sellIn=  0, quality=  0
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Conjured Mana Cake | sellIn=1 | quality=1 ===
+  Jour  0 -> sellIn=  1, quality=  1
+  Jour  1 -> sellIn=  0, quality=  0
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Conjured Mana Cake | sellIn=1 | quality=2 ===
+  Jour  0 -> sellIn=  1, quality=  2
+  Jour  1 -> sellIn=  0, quality=  1
+  Jour  2 -> sellIn= -1, quality=  0
+  Jour  3 -> sellIn= -2, quality=  0
+  Jour  4 -> sellIn= -3, quality=  0
+  Jour  5 -> sellIn= -4, quality=  0
+  Jour  6 -> sellIn= -5, quality=  0
+  Jour  7 -> sellIn= -6, quality=  0
+  Jour  8 -> sellIn= -7, quality=  0
+  Jour  9 -> sellIn= -8, quality=  0
+  Jour 10 -> sellIn= -9, quality=  0
+
+=== Conjured Mana Cake | sellIn=1 | quality=25 ===
+  Jour  0 -> sellIn=  1, quality= 25
+  Jour  1 -> sellIn=  0, quality= 24
+  Jour  2 -> sellIn= -1, quality= 22
+  Jour  3 -> sellIn= -2, quality= 20
+  Jour  4 -> sellIn= -3, quality= 18
+  Jour  5 -> sellIn= -4, quality= 16
+  Jour  6 -> sellIn= -5, quality= 14
+  Jour  7 -> sellIn= -6, quality= 12
+  Jour  8 -> sellIn= -7, quality= 10
+  Jour  9 -> sellIn= -8, quality=  8
+  Jour 10 -> sellIn= -9, quality=  6
+
+=== Conjured Mana Cake | sellIn=1 | quality=49 ===
+  Jour  0 -> sellIn=  1, quality= 49
+  Jour  1 -> sellIn=  0, quality= 48
+  Jour  2 -> sellIn= -1, quality= 46
+  Jour  3 -> sellIn= -2, quality= 44
+  Jour  4 -> sellIn= -3, quality= 42
+  Jour  5 -> sellIn= -4, quality= 40
+  Jour  6 -> sellIn= -5, quality= 38
+  Jour  7 -> sellIn= -6, quality= 36
+  Jour  8 -> sellIn= -7, quality= 34
+  Jour  9 -> sellIn= -8, quality= 32
+  Jour 10 -> sellIn= -9, quality= 30
+
+=== Conjured Mana Cake | sellIn=1 | quality=50 ===
+  Jour  0 -> sellIn=  1, quality= 50
+  Jour  1 -> sellIn=  0, quality= 49
+  Jour  2 -> sellIn= -1, quality= 47
+  Jour  3 -> sellIn= -2, quality= 45
+  Jour  4 -> sellIn= -3, quality= 43
+  Jour  5 -> sellIn= -4, quality= 41
+  Jour  6 -> sellIn= -5, quality= 39
+  Jour  7 -> sellIn= -6, quality= 37
+  Jour  8 -> sellIn= -7, quality= 35
+  Jour  9 -> sellIn= -8, quality= 33
+  Jour 10 -> sellIn= -9, quality= 31
+
+=== Conjured Mana Cake | sellIn=5 | quality=0 ===
+  Jour  0 -> sellIn=  5, quality=  0
+  Jour  1 -> sellIn=  4, quality=  0
+  Jour  2 -> sellIn=  3, quality=  0
+  Jour  3 -> sellIn=  2, quality=  0
+  Jour  4 -> sellIn=  1, quality=  0
+  Jour  5 -> sellIn=  0, quality=  0
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Conjured Mana Cake | sellIn=5 | quality=1 ===
+  Jour  0 -> sellIn=  5, quality=  1
+  Jour  1 -> sellIn=  4, quality=  0
+  Jour  2 -> sellIn=  3, quality=  0
+  Jour  3 -> sellIn=  2, quality=  0
+  Jour  4 -> sellIn=  1, quality=  0
+  Jour  5 -> sellIn=  0, quality=  0
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Conjured Mana Cake | sellIn=5 | quality=2 ===
+  Jour  0 -> sellIn=  5, quality=  2
+  Jour  1 -> sellIn=  4, quality=  1
+  Jour  2 -> sellIn=  3, quality=  0
+  Jour  3 -> sellIn=  2, quality=  0
+  Jour  4 -> sellIn=  1, quality=  0
+  Jour  5 -> sellIn=  0, quality=  0
+  Jour  6 -> sellIn= -1, quality=  0
+  Jour  7 -> sellIn= -2, quality=  0
+  Jour  8 -> sellIn= -3, quality=  0
+  Jour  9 -> sellIn= -4, quality=  0
+  Jour 10 -> sellIn= -5, quality=  0
+
+=== Conjured Mana Cake | sellIn=5 | quality=25 ===
+  Jour  0 -> sellIn=  5, quality= 25
+  Jour  1 -> sellIn=  4, quality= 24
+  Jour  2 -> sellIn=  3, quality= 23
+  Jour  3 -> sellIn=  2, quality= 22
+  Jour  4 -> sellIn=  1, quality= 21
+  Jour  5 -> sellIn=  0, quality= 20
+  Jour  6 -> sellIn= -1, quality= 18
+  Jour  7 -> sellIn= -2, quality= 16
+  Jour  8 -> sellIn= -3, quality= 14
+  Jour  9 -> sellIn= -4, quality= 12
+  Jour 10 -> sellIn= -5, quality= 10
+
+=== Conjured Mana Cake | sellIn=5 | quality=49 ===
+  Jour  0 -> sellIn=  5, quality= 49
+  Jour  1 -> sellIn=  4, quality= 48
+  Jour  2 -> sellIn=  3, quality= 47
+  Jour  3 -> sellIn=  2, quality= 46
+  Jour  4 -> sellIn=  1, quality= 45
+  Jour  5 -> sellIn=  0, quality= 44
+  Jour  6 -> sellIn= -1, quality= 42
+  Jour  7 -> sellIn= -2, quality= 40
+  Jour  8 -> sellIn= -3, quality= 38
+  Jour  9 -> sellIn= -4, quality= 36
+  Jour 10 -> sellIn= -5, quality= 34
+
+=== Conjured Mana Cake | sellIn=5 | quality=50 ===
+  Jour  0 -> sellIn=  5, quality= 50
+  Jour  1 -> sellIn=  4, quality= 49
+  Jour  2 -> sellIn=  3, quality= 48
+  Jour  3 -> sellIn=  2, quality= 47
+  Jour  4 -> sellIn=  1, quality= 46
+  Jour  5 -> sellIn=  0, quality= 45
+  Jour  6 -> sellIn= -1, quality= 43
+  Jour  7 -> sellIn= -2, quality= 41
+  Jour  8 -> sellIn= -3, quality= 39
+  Jour  9 -> sellIn= -4, quality= 37
+  Jour 10 -> sellIn= -5, quality= 35
+
+=== Conjured Mana Cake | sellIn=6 | quality=0 ===
+  Jour  0 -> sellIn=  6, quality=  0
+  Jour  1 -> sellIn=  5, quality=  0
+  Jour  2 -> sellIn=  4, quality=  0
+  Jour  3 -> sellIn=  3, quality=  0
+  Jour  4 -> sellIn=  2, quality=  0
+  Jour  5 -> sellIn=  1, quality=  0
+  Jour  6 -> sellIn=  0, quality=  0
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Conjured Mana Cake | sellIn=6 | quality=1 ===
+  Jour  0 -> sellIn=  6, quality=  1
+  Jour  1 -> sellIn=  5, quality=  0
+  Jour  2 -> sellIn=  4, quality=  0
+  Jour  3 -> sellIn=  3, quality=  0
+  Jour  4 -> sellIn=  2, quality=  0
+  Jour  5 -> sellIn=  1, quality=  0
+  Jour  6 -> sellIn=  0, quality=  0
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Conjured Mana Cake | sellIn=6 | quality=2 ===
+  Jour  0 -> sellIn=  6, quality=  2
+  Jour  1 -> sellIn=  5, quality=  1
+  Jour  2 -> sellIn=  4, quality=  0
+  Jour  3 -> sellIn=  3, quality=  0
+  Jour  4 -> sellIn=  2, quality=  0
+  Jour  5 -> sellIn=  1, quality=  0
+  Jour  6 -> sellIn=  0, quality=  0
+  Jour  7 -> sellIn= -1, quality=  0
+  Jour  8 -> sellIn= -2, quality=  0
+  Jour  9 -> sellIn= -3, quality=  0
+  Jour 10 -> sellIn= -4, quality=  0
+
+=== Conjured Mana Cake | sellIn=6 | quality=25 ===
+  Jour  0 -> sellIn=  6, quality= 25
+  Jour  1 -> sellIn=  5, quality= 24
+  Jour  2 -> sellIn=  4, quality= 23
+  Jour  3 -> sellIn=  3, quality= 22
+  Jour  4 -> sellIn=  2, quality= 21
+  Jour  5 -> sellIn=  1, quality= 20
+  Jour  6 -> sellIn=  0, quality= 19
+  Jour  7 -> sellIn= -1, quality= 17
+  Jour  8 -> sellIn= -2, quality= 15
+  Jour  9 -> sellIn= -3, quality= 13
+  Jour 10 -> sellIn= -4, quality= 11
+
+=== Conjured Mana Cake | sellIn=6 | quality=49 ===
+  Jour  0 -> sellIn=  6, quality= 49
+  Jour  1 -> sellIn=  5, quality= 48
+  Jour  2 -> sellIn=  4, quality= 47
+  Jour  3 -> sellIn=  3, quality= 46
+  Jour  4 -> sellIn=  2, quality= 45
+  Jour  5 -> sellIn=  1, quality= 44
+  Jour  6 -> sellIn=  0, quality= 43
+  Jour  7 -> sellIn= -1, quality= 41
+  Jour  8 -> sellIn= -2, quality= 39
+  Jour  9 -> sellIn= -3, quality= 37
+  Jour 10 -> sellIn= -4, quality= 35
+
+=== Conjured Mana Cake | sellIn=6 | quality=50 ===
+  Jour  0 -> sellIn=  6, quality= 50
+  Jour  1 -> sellIn=  5, quality= 49
+  Jour  2 -> sellIn=  4, quality= 48
+  Jour  3 -> sellIn=  3, quality= 47
+  Jour  4 -> sellIn=  2, quality= 46
+  Jour  5 -> sellIn=  1, quality= 45
+  Jour  6 -> sellIn=  0, quality= 44
+  Jour  7 -> sellIn= -1, quality= 42
+  Jour  8 -> sellIn= -2, quality= 40
+  Jour  9 -> sellIn= -3, quality= 38
+  Jour 10 -> sellIn= -4, quality= 36
+
+=== Conjured Mana Cake | sellIn=10 | quality=0 ===
+  Jour  0 -> sellIn= 10, quality=  0
+  Jour  1 -> sellIn=  9, quality=  0
+  Jour  2 -> sellIn=  8, quality=  0
+  Jour  3 -> sellIn=  7, quality=  0
+  Jour  4 -> sellIn=  6, quality=  0
+  Jour  5 -> sellIn=  5, quality=  0
+  Jour  6 -> sellIn=  4, quality=  0
+  Jour  7 -> sellIn=  3, quality=  0
+  Jour  8 -> sellIn=  2, quality=  0
+  Jour  9 -> sellIn=  1, quality=  0
+  Jour 10 -> sellIn=  0, quality=  0
+
+=== Conjured Mana Cake | sellIn=10 | quality=1 ===
+  Jour  0 -> sellIn= 10, quality=  1
+  Jour  1 -> sellIn=  9, quality=  0
+  Jour  2 -> sellIn=  8, quality=  0
+  Jour  3 -> sellIn=  7, quality=  0
+  Jour  4 -> sellIn=  6, quality=  0
+  Jour  5 -> sellIn=  5, quality=  0
+  Jour  6 -> sellIn=  4, quality=  0
+  Jour  7 -> sellIn=  3, quality=  0
+  Jour  8 -> sellIn=  2, quality=  0
+  Jour  9 -> sellIn=  1, quality=  0
+  Jour 10 -> sellIn=  0, quality=  0
+
+=== Conjured Mana Cake | sellIn=10 | quality=2 ===
+  Jour  0 -> sellIn= 10, quality=  2
+  Jour  1 -> sellIn=  9, quality=  1
+  Jour  2 -> sellIn=  8, quality=  0
+  Jour  3 -> sellIn=  7, quality=  0
+  Jour  4 -> sellIn=  6, quality=  0
+  Jour  5 -> sellIn=  5, quality=  0
+  Jour  6 -> sellIn=  4, quality=  0
+  Jour  7 -> sellIn=  3, quality=  0
+  Jour  8 -> sellIn=  2, quality=  0
+  Jour  9 -> sellIn=  1, quality=  0
+  Jour 10 -> sellIn=  0, quality=  0
+
+=== Conjured Mana Cake | sellIn=10 | quality=25 ===
+  Jour  0 -> sellIn= 10, quality= 25
+  Jour  1 -> sellIn=  9, quality= 24
+  Jour  2 -> sellIn=  8, quality= 23
+  Jour  3 -> sellIn=  7, quality= 22
+  Jour  4 -> sellIn=  6, quality= 21
+  Jour  5 -> sellIn=  5, quality= 20
+  Jour  6 -> sellIn=  4, quality= 19
+  Jour  7 -> sellIn=  3, quality= 18
+  Jour  8 -> sellIn=  2, quality= 17
+  Jour  9 -> sellIn=  1, quality= 16
+  Jour 10 -> sellIn=  0, quality= 15
+
+=== Conjured Mana Cake | sellIn=10 | quality=49 ===
+  Jour  0 -> sellIn= 10, quality= 49
+  Jour  1 -> sellIn=  9, quality= 48
+  Jour  2 -> sellIn=  8, quality= 47
+  Jour  3 -> sellIn=  7, quality= 46
+  Jour  4 -> sellIn=  6, quality= 45
+  Jour  5 -> sellIn=  5, quality= 44
+  Jour  6 -> sellIn=  4, quality= 43
+  Jour  7 -> sellIn=  3, quality= 42
+  Jour  8 -> sellIn=  2, quality= 41
+  Jour  9 -> sellIn=  1, quality= 40
+  Jour 10 -> sellIn=  0, quality= 39
+
+=== Conjured Mana Cake | sellIn=10 | quality=50 ===
+  Jour  0 -> sellIn= 10, quality= 50
+  Jour  1 -> sellIn=  9, quality= 49
+  Jour  2 -> sellIn=  8, quality= 48
+  Jour  3 -> sellIn=  7, quality= 47
+  Jour  4 -> sellIn=  6, quality= 46
+  Jour  5 -> sellIn=  5, quality= 45
+  Jour  6 -> sellIn=  4, quality= 44
+  Jour  7 -> sellIn=  3, quality= 43
+  Jour  8 -> sellIn=  2, quality= 42
+  Jour  9 -> sellIn=  1, quality= 41
+  Jour 10 -> sellIn=  0, quality= 40
+
+=== Conjured Mana Cake | sellIn=11 | quality=0 ===
+  Jour  0 -> sellIn= 11, quality=  0
+  Jour  1 -> sellIn= 10, quality=  0
+  Jour  2 -> sellIn=  9, quality=  0
+  Jour  3 -> sellIn=  8, quality=  0
+  Jour  4 -> sellIn=  7, quality=  0
+  Jour  5 -> sellIn=  6, quality=  0
+  Jour  6 -> sellIn=  5, quality=  0
+  Jour  7 -> sellIn=  4, quality=  0
+  Jour  8 -> sellIn=  3, quality=  0
+  Jour  9 -> sellIn=  2, quality=  0
+  Jour 10 -> sellIn=  1, quality=  0
+
+=== Conjured Mana Cake | sellIn=11 | quality=1 ===
+  Jour  0 -> sellIn= 11, quality=  1
+  Jour  1 -> sellIn= 10, quality=  0
+  Jour  2 -> sellIn=  9, quality=  0
+  Jour  3 -> sellIn=  8, quality=  0
+  Jour  4 -> sellIn=  7, quality=  0
+  Jour  5 -> sellIn=  6, quality=  0
+  Jour  6 -> sellIn=  5, quality=  0
+  Jour  7 -> sellIn=  4, quality=  0
+  Jour  8 -> sellIn=  3, quality=  0
+  Jour  9 -> sellIn=  2, quality=  0
+  Jour 10 -> sellIn=  1, quality=  0
+
+=== Conjured Mana Cake | sellIn=11 | quality=2 ===
+  Jour  0 -> sellIn= 11, quality=  2
+  Jour  1 -> sellIn= 10, quality=  1
+  Jour  2 -> sellIn=  9, quality=  0
+  Jour  3 -> sellIn=  8, quality=  0
+  Jour  4 -> sellIn=  7, quality=  0
+  Jour  5 -> sellIn=  6, quality=  0
+  Jour  6 -> sellIn=  5, quality=  0
+  Jour  7 -> sellIn=  4, quality=  0
+  Jour  8 -> sellIn=  3, quality=  0
+  Jour  9 -> sellIn=  2, quality=  0
+  Jour 10 -> sellIn=  1, quality=  0
+
+=== Conjured Mana Cake | sellIn=11 | quality=25 ===
+  Jour  0 -> sellIn= 11, quality= 25
+  Jour  1 -> sellIn= 10, quality= 24
+  Jour  2 -> sellIn=  9, quality= 23
+  Jour  3 -> sellIn=  8, quality= 22
+  Jour  4 -> sellIn=  7, quality= 21
+  Jour  5 -> sellIn=  6, quality= 20
+  Jour  6 -> sellIn=  5, quality= 19
+  Jour  7 -> sellIn=  4, quality= 18
+  Jour  8 -> sellIn=  3, quality= 17
+  Jour  9 -> sellIn=  2, quality= 16
+  Jour 10 -> sellIn=  1, quality= 15
+
+=== Conjured Mana Cake | sellIn=11 | quality=49 ===
+  Jour  0 -> sellIn= 11, quality= 49
+  Jour  1 -> sellIn= 10, quality= 48
+  Jour  2 -> sellIn=  9, quality= 47
+  Jour  3 -> sellIn=  8, quality= 46
+  Jour  4 -> sellIn=  7, quality= 45
+  Jour  5 -> sellIn=  6, quality= 44
+  Jour  6 -> sellIn=  5, quality= 43
+  Jour  7 -> sellIn=  4, quality= 42
+  Jour  8 -> sellIn=  3, quality= 41
+  Jour  9 -> sellIn=  2, quality= 40
+  Jour 10 -> sellIn=  1, quality= 39
+
+=== Conjured Mana Cake | sellIn=11 | quality=50 ===
+  Jour  0 -> sellIn= 11, quality= 50
+  Jour  1 -> sellIn= 10, quality= 49
+  Jour  2 -> sellIn=  9, quality= 48
+  Jour  3 -> sellIn=  8, quality= 47
+  Jour  4 -> sellIn=  7, quality= 46
+  Jour  5 -> sellIn=  6, quality= 45
+  Jour  6 -> sellIn=  5, quality= 44
+  Jour  7 -> sellIn=  4, quality= 43
+  Jour  8 -> sellIn=  3, quality= 42
+  Jour  9 -> sellIn=  2, quality= 41
+  Jour 10 -> sellIn=  1, quality= 40
+
+=== Conjured Mana Cake | sellIn=15 | quality=0 ===
+  Jour  0 -> sellIn= 15, quality=  0
+  Jour  1 -> sellIn= 14, quality=  0
+  Jour  2 -> sellIn= 13, quality=  0
+  Jour  3 -> sellIn= 12, quality=  0
+  Jour  4 -> sellIn= 11, quality=  0
+  Jour  5 -> sellIn= 10, quality=  0
+  Jour  6 -> sellIn=  9, quality=  0
+  Jour  7 -> sellIn=  8, quality=  0
+  Jour  8 -> sellIn=  7, quality=  0
+  Jour  9 -> sellIn=  6, quality=  0
+  Jour 10 -> sellIn=  5, quality=  0
+
+=== Conjured Mana Cake | sellIn=15 | quality=1 ===
+  Jour  0 -> sellIn= 15, quality=  1
+  Jour  1 -> sellIn= 14, quality=  0
+  Jour  2 -> sellIn= 13, quality=  0
+  Jour  3 -> sellIn= 12, quality=  0
+  Jour  4 -> sellIn= 11, quality=  0
+  Jour  5 -> sellIn= 10, quality=  0
+  Jour  6 -> sellIn=  9, quality=  0
+  Jour  7 -> sellIn=  8, quality=  0
+  Jour  8 -> sellIn=  7, quality=  0
+  Jour  9 -> sellIn=  6, quality=  0
+  Jour 10 -> sellIn=  5, quality=  0
+
+=== Conjured Mana Cake | sellIn=15 | quality=2 ===
+  Jour  0 -> sellIn= 15, quality=  2
+  Jour  1 -> sellIn= 14, quality=  1
+  Jour  2 -> sellIn= 13, quality=  0
+  Jour  3 -> sellIn= 12, quality=  0
+  Jour  4 -> sellIn= 11, quality=  0
+  Jour  5 -> sellIn= 10, quality=  0
+  Jour  6 -> sellIn=  9, quality=  0
+  Jour  7 -> sellIn=  8, quality=  0
+  Jour  8 -> sellIn=  7, quality=  0
+  Jour  9 -> sellIn=  6, quality=  0
+  Jour 10 -> sellIn=  5, quality=  0
+
+=== Conjured Mana Cake | sellIn=15 | quality=25 ===
+  Jour  0 -> sellIn= 15, quality= 25
+  Jour  1 -> sellIn= 14, quality= 24
+  Jour  2 -> sellIn= 13, quality= 23
+  Jour  3 -> sellIn= 12, quality= 22
+  Jour  4 -> sellIn= 11, quality= 21
+  Jour  5 -> sellIn= 10, quality= 20
+  Jour  6 -> sellIn=  9, quality= 19
+  Jour  7 -> sellIn=  8, quality= 18
+  Jour  8 -> sellIn=  7, quality= 17
+  Jour  9 -> sellIn=  6, quality= 16
+  Jour 10 -> sellIn=  5, quality= 15
+
+=== Conjured Mana Cake | sellIn=15 | quality=49 ===
+  Jour  0 -> sellIn= 15, quality= 49
+  Jour  1 -> sellIn= 14, quality= 48
+  Jour  2 -> sellIn= 13, quality= 47
+  Jour  3 -> sellIn= 12, quality= 46
+  Jour  4 -> sellIn= 11, quality= 45
+  Jour  5 -> sellIn= 10, quality= 44
+  Jour  6 -> sellIn=  9, quality= 43
+  Jour  7 -> sellIn=  8, quality= 42
+  Jour  8 -> sellIn=  7, quality= 41
+  Jour  9 -> sellIn=  6, quality= 40
+  Jour 10 -> sellIn=  5, quality= 39
+
+=== Conjured Mana Cake | sellIn=15 | quality=50 ===
+  Jour  0 -> sellIn= 15, quality= 50
+  Jour  1 -> sellIn= 14, quality= 49
+  Jour  2 -> sellIn= 13, quality= 48
+  Jour  3 -> sellIn= 12, quality= 47
+  Jour  4 -> sellIn= 11, quality= 46
+  Jour  5 -> sellIn= 10, quality= 45
+  Jour  6 -> sellIn=  9, quality= 44
+  Jour  7 -> sellIn=  8, quality= 43
+  Jour  8 -> sellIn=  7, quality= 42
+  Jour  9 -> sellIn=  6, quality= 41
+  Jour 10 -> sellIn=  5, quality= 40
+
