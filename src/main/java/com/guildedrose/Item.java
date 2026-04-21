@@ -10,4 +10,17 @@ public class Item {
         this.sellIn = sellIn;
         this.quality = quality;
     }
+
+    public void increaseQuality() {
+        this.quality++;
+    }
+    public void decreaseQuality() {
+        this.quality--;
+    }
+    public void increaseSellIn() {
+        this.sellIn++;
+    }
+    public void decreaseSellIn() {
+        this.sellIn--;
+    }
 }

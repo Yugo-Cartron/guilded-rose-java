@@ -13,23 +13,23 @@ class GuildedRose {
                     && !items[i].name.equals("Backstage passes to a TAFKAL80ETC concert")) {
                 if (items[i].quality > 0) {
                     if (!items[i].name.equals("Sulfuras, Hand of Ragnaros")) {
-                        items[i].quality = items[i].quality - 1;
+                        items[i].decreaseQuality();
                     }
                 }
             } else {
                 if (items[i].quality < 50) {
-                    items[i].quality = items[i].quality + 1;
+                    items[i].increaseQuality();
 
                     if (items[i].name.equals("Backstage passes to a TAFKAL80ETC concert")) {
                         if (items[i].sellIn < 11) {
                             if (items[i].quality < 50) {
-                                items[i].quality = items[i].quality + 1;
+                                items[i].increaseQuality();
                             }
                         }
 
                         if (items[i].sellIn < 6) {
                             if (items[i].quality < 50) {
-                                items[i].quality = items[i].quality + 1;
+                                items[i].increaseQuality();
                             }
                         }
                     }
@@ -53,7 +53,7 @@ class GuildedRose {
                     }
                 } else {
                     if (items[i].quality < 50) {
-                        items[i].quality = items[i].quality + 1;
+                        items[i].increaseQuality();
                     }
                 }
             }
