@@ -4,19 +4,20 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-public class AgedBrie {
+public class AgedBrieTest {
     @Test
     void qualityShouldIncreaseOfOneIfSellInIsGreaterThan0() {
-    AgedBrie agedBrie = new AgedBrie();
+    AgedBrie agedBrie = new AgedBrie(1, 40);
     
+    agedBrie.updateQuality();
+    assertEquals(agedBrie.quality, 41);
     }
 
     @Test
     void qualityShouldIncreaseOfTwoIfSellInIsLowerThan0() {
-        Sulfura sulfuraItem = new Sulfura();
-
-        assertEquals(sulfuraItem.sellIn, -1);
-        sulfuraItem.updateSellIn();
-        assertEquals(sulfuraItem.sellIn, -1);
+    AgedBrie agedBrie = new AgedBrie(-1, 40);
+    
+    agedBrie.updateQuality();
+    assertEquals(agedBrie.quality, 42);
     }
 }
