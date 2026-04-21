@@ -12,8 +12,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * Golden Master test for GuildedRose.
  *
- * Ce test capture le comportement actuel de l'application sur 30 jours
- * pour toutes les combinaisons pertinentes d'items.
+ * Ce test capture le comportement actuel de l'application sur 10 jours
+ * pour toutes les combinaisons pertinentes d'items, en utilisant les
+ * sous-classes concrètes de la nouvelle implémentation OCP.
  *
  * Pour régénérer le golden master : mvn test -Dupdate-golden-master=true
  */
@@ -23,14 +24,6 @@ class GoldenMasterTest {
             Paths.get("src/test/resources/golden-master.txt");
 
     private static final int DAYS = 10;
-
-    private static final String[] ITEM_NAMES = {
-            "normal item",
-            "Aged Brie",
-            "Backstage passes to a TAFKAL80ETC concert",
-            "Sulfuras, Hand of Ragnaros",
-            "Conjured Mana Cake"
-    };
 
     // Valeurs limites et représentatives pour sellIn
     private static final int[] SELL_IN_VALUES = {-1, 0, 1, 5, 6, 10, 11, 15};
@@ -56,28 +49,76 @@ class GoldenMasterTest {
     private String generateOutput() {
         StringBuilder sb = new StringBuilder();
 
-        for (String name : ITEM_NAMES) {
-            for (int sellIn : SELL_IN_VALUES) {
-                for (int quality : QUALITY_VALUES) {
-                    int initialQuality = name.equals("Sulfuras, Hand of Ragnaros") ? 80 : quality;
-
-                    Item[] items = {new Item(name, sellIn, initialQuality)};
-                    GuildedRose app = new GuildedRose(items);
-
-                    sb.append(String.format("=== %s | sellIn=%d | quality=%d ===\n",
-                            name, sellIn, initialQuality));
-                    sb.append(formatItem("Jour  0", items[0]));
-
-                    for (int day = 1; day <= DAYS; day++) {
-                        app.updateQuality();
-                        sb.append(formatItem("Jour " + String.format("%2d", day), items[0]));
-                    }
-                    sb.append("\n");
-                }
-            }
-        }
+        appendNormalItems(sb);
+        appendAgedBrie(sb);
+        appendBackstagePasses(sb);
+        appendSulfuras(sb);
+        appendConjured(sb);
 
         return sb.toString();
+    }
+
+    private void appendNormalItems(StringBuilder sb) {
+        for (int sellIn : SELL_IN_VALUES) {
+            for (int quality : QUALITY_VALUES) {
+                Item item = new Item("normal item", sellIn, quality);
+                appendItemScenario(sb, item, sellIn, quality);
+            }
+        }
+    }
+
+    private void appendAgedBrie(StringBuilder sb) {
+        for (int sellIn : SELL_IN_VALUES) {
+            for (int quality : QUALITY_VALUES) {
+                Item item = new AgedBrie(sellIn, quality);
+                appendItemScenario(sb, item, sellIn, quality);
+            }
+        }
+    }
+
+    private void appendBackstagePasses(StringBuilder sb) {
+        for (int sellIn : SELL_IN_VALUES) {
+            for (int quality : QUALITY_VALUES) {
+                Item item = new BackstagePasses(sellIn, quality);
+                appendItemScenario(sb, item, sellIn, quality);
+            }
+        }
+    }
+
+    private void appendSulfuras(StringBuilder sb) {
+        Sulfura item = new Sulfura();
+        sb.append(String.format("=== %s | sellIn=%d | quality=%d ===\n",
+                item.name, item.sellIn, item.quality));
+        sb.append(formatItem("Jour  0", item));
+
+        GuildedRose app = new GuildedRose(new Item[]{item});
+        for (int day = 1; day <= DAYS; day++) {
+            app.updateQuality();
+            sb.append(formatItem("Jour " + String.format("%2d", day), item));
+        }
+        sb.append("\n");
+    }
+
+    private void appendConjured(StringBuilder sb) {
+        for (int sellIn : SELL_IN_VALUES) {
+            for (int quality : QUALITY_VALUES) {
+                Item item = new Item("Conjured Mana Cake", sellIn, quality);
+                appendItemScenario(sb, item, sellIn, quality);
+            }
+        }
+    }
+
+    private void appendItemScenario(StringBuilder sb, Item item, int sellIn, int quality) {
+        sb.append(String.format("=== %s | sellIn=%d | quality=%d ===\n",
+                item.name, sellIn, quality));
+        sb.append(formatItem("Jour  0", item));
+
+        GuildedRose app = new GuildedRose(new Item[]{item});
+        for (int day = 1; day <= DAYS; day++) {
+            app.updateQuality();
+            sb.append(formatItem("Jour " + String.format("%2d", day), item));
+        }
+        sb.append("\n");
     }
 
     private String formatItem(String label, Item item) {

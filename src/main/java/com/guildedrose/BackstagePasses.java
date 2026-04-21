@@ -8,15 +8,15 @@ public class BackstagePasses extends Item {
 
     @Override
     public void updateQuality() {
-        this.quality++;
+        increaseQuality();
 
         if(this.sellIn <= 10) {
-            this.quality++;
+            increaseQuality();
         }
         if(this.sellIn <= 5) {
-            this.quality++;
+            increaseQuality();
         }
-        if(this.sellIn < 0) {
+        if(this.sellIn <= 0) {
             this.quality = 0;
         }
          this.sellIn--;
